@@ -27,6 +27,28 @@ Before pivoting to the NSE, this auditing framework successfully identified thre
 2.  Harvest CMA enforcement list for 2019-2024.
 3.  Run the **Temporal Drift Test** on the NSE sample to check if linguistic benchmarks established in the US apply to the Kenyan context.
 
+## 🚀 The NSE "SuperTool" Pipeline
+I have included `nse_supertool_v1.py` for automated extraction of the NSE dataset. It performs:
+1.  **Direct Harvest**: Scrapes `nse.co.ke` for all available `.pdf` annual reports.
+2.  **Autonomous Download**: Maps URLs to unique company/year filenames.
+3.  **Linguistic Extraction**: Uses `PyMuPDF` to convert binary PDF layout into clean UTF-8 text for NLP analysis.
+
+---
+
+## ⚠️ 10 Critical Market Artifacts (Avoid these Traps)
+The next stage of this audit (the Kenyan Sprint) must account for these structural biases, or the findings will be statistically invalid:
+
+1.  **Small N Statistical Trap**: In a market of only 66 companies, a single outlier (e.g., Safaricom) can hallucinate a market-wide trend. Use **Leave-One-Out (LOO)** cross-validation.
+2.  **PDF "Dark Matter"**: Scanned PDFs (common in older filings) produce extraction noise. If OCR error rates exceed 5%, linguist analysis collapses.
+3.  **Defining "Fraud"**: CMA enforcement lists include administrative fines for "late filings." Do not treat administrative delays as accounting fraud labels.
+4.  **Dictionary Locale Mismatch**: US financial dictionaries (Loughran-McDonald) miss Kenyan-British business idioms.
+5.  **Peer Group Ghost Town**: Matching a "fraud" firm against a "clean" contemporary in the same sub-sector (e.g., Agricultural) is nearly impossible given the low count.
+6.  **IFRS Cut-offs**: The "Companies Act 2015" in Kenya created a massive linguistic discontinuity. Do not compare pre-2015 to post-2015 without normalization.
+7.  **Governance vs Accounting**: The primary NSE issue is "Boardroom Composition" (Director Independence), not "Earnings Management."
+8.  **Safaricom Dominance Bias**: Safaricom is the "Gold Standard" by market cap. Using it as a benchmark will just flag "smaller, poorer firms" as high-risk.
+9.  **Colum-Flow Hallucinations**: Multicolumn PDF layouts often lead to "jumbled" text extraction; this looks like high entropy to a model but is just a layout error.
+10. **Regulatory Sales Logic**: To sell to the CMA, transition from "AUC Scores" to "Case Recall"—demonstrating how many millions in the *Imperial Bank* or *Chase Bank* cases could have been saved by flagging language 12 months earlier.
+
 ---
 **Status**: ACTIVE SPRINT (March 2026)
 **Contact**: Antigravity-Audit Agent
