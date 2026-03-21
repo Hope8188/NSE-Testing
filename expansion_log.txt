@@ -1,0 +1,91 @@
+======================================================================
+MANUAL CORPUS EXPANSION
+======================================================================
+
+NOTE: NSE website only hosts NSE's own reports.
+This script downloads from company investor relations pages.
+
+  Downloading Equity_Bank_2023_Annual_Report.pdf... (attempt 1)
+    [ERROR] HTTPSConnectionPool(host='equitygroupha.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/05/Equity-Bank-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906ebbf20>: Failed to resolve 'equitygroupha.com' ([Errno -2] Name or service not known)"))
+  Downloading Equity_Bank_2023_Annual_Report.pdf... (attempt 2)
+    [ERROR] HTTPSConnectionPool(host='equitygroupha.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/05/Equity-Bank-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f29097004d0>: Failed to resolve 'equitygroupha.com' ([Errno -2] Name or service not known)"))
+  Downloading Equity_Bank_2023_Annual_Report.pdf... (attempt 3)
+    [ERROR] HTTPSConnectionPool(host='equitygroupha.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/05/Equity-Bank-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1e750>: Failed to resolve 'equitygroupha.com' ([Errno -2] Name or service not known)"))
+  Downloading KCB_Group_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading KCB_Group_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading KCB_Group_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Coop_Bank_2023_Annual_Report.pdf... (attempt 1)
+    [ERROR] HTTPSConnectionPool(host='coopbank.co.ke', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Co-operative-Bank-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1f380>: Failed to resolve 'coopbank.co.ke' ([Errno -2] Name or service not known)"))
+  Downloading Coop_Bank_2023_Annual_Report.pdf... (attempt 2)
+    [ERROR] HTTPSConnectionPool(host='coopbank.co.ke', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Co-operative-Bank-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1ff20>: Failed to resolve 'coopbank.co.ke' ([Errno -2] Name or service not known)"))
+  Downloading Coop_Bank_2023_Annual_Report.pdf... (attempt 3)
+    [ERROR] HTTPSConnectionPool(host='coopbank.co.ke', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Co-operative-Bank-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f29059f8680>: Failed to resolve 'coopbank.co.ke' ([Errno -2] Name or service not known)"))
+  Downloading NCBA_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading NCBA_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading NCBA_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Stanbic_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading Stanbic_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading Stanbic_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Safaricom_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading Safaricom_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading Safaricom_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Britam_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading Britam_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading Britam_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Jubilee_2023_Annual_Report.pdf... (attempt 1)
+    [ERROR] HTTPSConnectionPool(host='jubilee.co.ke', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Jubilee-Holdings-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1e780>: Failed to resolve 'jubilee.co.ke' ([Errno -2] Name or service not known)"))
+  Downloading Jubilee_2023_Annual_Report.pdf... (attempt 2)
+    [ERROR] HTTPSConnectionPool(host='jubilee.co.ke', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Jubilee-Holdings-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1ed50>: Failed to resolve 'jubilee.co.ke' ([Errno -2] Name or service not known)"))
+  Downloading Jubilee_2023_Annual_Report.pdf... (attempt 3)
+    [ERROR] HTTPSConnectionPool(host='jubilee.co.ke', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/Jubilee-Holdings-Integrated-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1ea80>: Failed to resolve 'jubilee.co.ke' ([Errno -2] Name or service not known)"))
+  Downloading CIC_Insurance_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading CIC_Insurance_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading CIC_Insurance_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Sasini_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading Sasini_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading Sasini_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Williamson_Tea_2023_Annual_Report.pdf... (attempt 1)
+    [ERROR] HTTPSConnectionPool(host='williamsonteakenya.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/03/Williamson-Tea-Annual-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1fda0>: Failed to resolve 'williamsonteakenya.com' ([Errno -2] Name or service not known)"))
+  Downloading Williamson_Tea_2023_Annual_Report.pdf... (attempt 2)
+    [ERROR] HTTPSConnectionPool(host='williamsonteakenya.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/03/Williamson-Tea-Annual-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1f080>: Failed to resolve 'williamsonteakenya.com' ([Errno -2] Name or service not known)"))
+  Downloading Williamson_Tea_2023_Annual_Report.pdf... (attempt 3)
+    [ERROR] HTTPSConnectionPool(host='williamsonteakenya.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/03/Williamson-Tea-Annual-Report-2023.pdf (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2906f1ee10>: Failed to resolve 'williamsonteakenya.com' ([Errno -2] Name or service not known)"))
+  Downloading EABL_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 403
+  Downloading EABL_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 403
+  Downloading EABL_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 403
+  Downloading BAT_Kenya_2023_Annual_Report.pdf... (attempt 1)
+    HTTP 404
+  Downloading BAT_Kenya_2023_Annual_Report.pdf... (attempt 2)
+    HTTP 404
+  Downloading BAT_Kenya_2023_Annual_Report.pdf... (attempt 3)
+    HTTP 404
+  Downloading Nation_Media_2023_Annual_Report.pdf... (attempt 1)
+    [ERROR] HTTPSConnectionPool(host='nationmedia.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/03/NMG-Integrated-Report-2023.pdf (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nationmedia.com'. (_ssl.c:1010)")))
+  Downloading Nation_Media_2023_Annual_Report.pdf... (attempt 2)
+    [ERROR] HTTPSConnectionPool(host='nationmedia.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/03/NMG-Integrated-Report-2023.pdf (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nationmedia.com'. (_ssl.c:1010)")))
+  Downloading Nation_Media_2023_Annual_Report.pdf... (attempt 3)
+    [ERROR] HTTPSConnectionPool(host='nationmedia.com', port=443): Max retries exceeded with url: /wp-content/uploads/2024/03/NMG-Integrated-Report-2023.pdf (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nationmedia.com'. (_ssl.c:1010)")))

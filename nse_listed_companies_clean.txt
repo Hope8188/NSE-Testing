@@ -1,0 +1,115 @@
+# NSE-Listed Companies (Cleaned)
+# Total: 42 companies
+
+# NSE-Listed Companies
+# Extracted: 2026-03-21T10:58:58.868362
+# Total: 46 companies
+
+AFRICA MEGA AGRICORP PLC
+BK Group PLC
+Bamburi Cement PLC
+Bank of Kenya Ltd
+Britam Holdings Ltd
+British American Tobacco Kenya Ltd
+Century Ltd
+Crown Paints Kenya PLC
+Diamond Trust Bank Kenya Ltd
+E.A.Cables PLC
+E.A.Portland Cement Ltd
+East African Breweries Ltd
+Eveready East Africa Ltd
+Flame Tree Group Holdings Ltd
+HF Group Ltd
+Home Afrika Ltd
+I&M Holdings Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jubilee Holdings Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Olympia Capital Holdings ltd
+KCB Group Ltd
+Kapchorua Tea Co. Ltd
+KenGen Ltd
+Kenya Airways Ltd
+Kenya Power & Lighting Co Ltd
+Liberty Kenya Holdings Ltd
+Limuru Tea Co. Ltd
+Longhorn Publishers Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B.O.C Kenya Ltd
+Mumias Sugar Co. Ltd
+NCBA Group PLC
+Nairobi Business Ventures Ltd
+Nairobi Securities Exchange PLC
+Sameer Africa PLC
+Sasini Ltd
+Scangroup Ltd
+Standard Chartered Bank Ltd
+Standard Group Ltd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safaricom PLC
+Uchumi Supermarket Ltd
+Umeme Ltd
+Unga Group Ltd
+Williamson Tea Kenya Ltd
