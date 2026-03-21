@@ -1,0 +1,136 @@
+======================================================================
+TARGETED NSE SCRAPER - Top Companies
+======================================================================
+Target companies: 28
+Max years per company: 2
+
+
+[1/28] Safaricom (Telecommunications)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[2/28] Equity Bank (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[3/28] KCB Group (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[4/28] Co-operative Bank (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[5/28] NCBA Group (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[6/28] Diamond Trust Bank (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[7/28] Stanbic Holdings (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[8/28] Absa Bank Kenya (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[9/28] I&M Holdings (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[10/28] Family Bank (Banking)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[11/28] Britam Holdings (Insurance)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[12/28] Jubilee Holdings (Insurance)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[13/28] CIC Insurance (Insurance)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[14/28] Sanlam Kenya (Insurance)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[15/28] Sasini (Agriculture)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[16/28] Williamson Tea (Agriculture)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[17/28] Kapchorua Tea (Agriculture)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[18/28] Kakuzi (Agriculture)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[19/28] East African Breweries (Manufacturing)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[20/28] British American Tobacco Kenya (Manufacturing)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[21/28] Longhorn Publishers (Manufacturing)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[22/28] Bamburi Cement (Manufacturing)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[23/28] KenGen (Energy)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[24/28] Kenya Power (Utilities)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[25/28] Centum Investment (Investment)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[26/28] Home Afrika (Real Estate)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[27/28] Nation Media Group (Media)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+[28/28] Kenya Airways (Transport)
+      Searching https://www.nse.co.ke/annual-reports/...
+      [!] No reports found on NSE website
+
+======================================================================
+SCRAPING COMPLETE
+======================================================================
+Companies processed: 0
+Companies with downloads: 0
+Total PDFs downloaded: 0
+
+By Sector:
+
+Manifest saved to: nse_audit_data/targeted_scrape_manifest.json
+
+======================================================================
+NEXT STEPS:
+======================================================================
+1. Run corpus_filter.py to validate downloaded files are annual reports
+2. Run test_phase4_valid_corpus.py on expanded dataset
+3. Review nse_audit_data/targeted_scrape_manifest.json for details

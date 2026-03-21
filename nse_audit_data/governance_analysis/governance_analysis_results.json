@@ -1,0 +1,413 @@
+[
+  {
+    "filename": "2019-Integrated-report-and-financial-statements-1.txt.txt",
+    "governance_sections": {
+      "section_41": 19,
+      "section_45": 7,
+      "section_48": 4,
+      "corporate_governance": 34,
+      "risk_management": 50,
+      "remuneration": 5
+    },
+    "tunneling_risk": {
+      "indicators_found": [
+        {
+          "pattern": "related\\s*party\\s*transaction",
+          "count": 4
+        },
+        {
+          "pattern": "conflict\\s*of\\s*interest",
+          "count": 6
+        }
+      ],
+      "risk_score": 10,
+      "severity": "HIGH"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": true,
+      "independence_keywords": 4,
+      "score": 1.0
+    },
+    "director_compensation": {
+      "mentioned": true,
+      "total_mentions": 1
+    }
+  },
+  {
+    "filename": "2020-integrated-report-and-financial-statements.txt.txt",
+    "governance_sections": {
+      "section_41": 22,
+      "section_45": 5,
+      "section_48": 4,
+      "corporate_governance": 22,
+      "risk_management": 37,
+      "remuneration": 4
+    },
+    "tunneling_risk": {
+      "indicators_found": [
+        {
+          "pattern": "related\\s*party\\s*transaction",
+          "count": 4
+        },
+        {
+          "pattern": "conflict\\s*of\\s*interest",
+          "count": 1
+        }
+      ],
+      "risk_score": 5,
+      "severity": "MEDIUM"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": true,
+      "independence_keywords": 4,
+      "score": 1.0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "Broker_Back_Office_Minimum_Standards.txt",
+    "governance_sections": {
+      "section_41": 1
+    },
+    "tunneling_risk": {
+      "indicators_found": [],
+      "risk_score": 0,
+      "severity": "LOW"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": false,
+      "independence_keywords": 0,
+      "score": 0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "Broker_Back_Office_Prequalified_Vendors.txt",
+    "governance_sections": {},
+    "tunneling_risk": {
+      "indicators_found": [],
+      "risk_score": 0,
+      "severity": "LOW"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": false,
+      "independence_keywords": 0,
+      "score": 0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "Data_Pricelist.txt",
+    "governance_sections": {},
+    "tunneling_risk": {
+      "indicators_found": [],
+      "risk_score": 0,
+      "severity": "LOW"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": false,
+      "independence_keywords": 0,
+      "score": 0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "NSE-2021-ANNUAL-REPORT-AND-FINANCIAL-STATEMENTS-1.txt.txt",
+    "governance_sections": {
+      "section_41": 14,
+      "section_45": 8,
+      "section_48": 6,
+      "corporate_governance": 60,
+      "risk_management": 45,
+      "remuneration": 13
+    },
+    "tunneling_risk": {
+      "indicators_found": [
+        {
+          "pattern": "related\\s*party\\s*transaction",
+          "count": 6
+        },
+        {
+          "pattern": "conflict\\s*of\\s*interest",
+          "count": 6
+        }
+      ],
+      "risk_score": 10,
+      "severity": "HIGH"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": true,
+      "independence_keywords": 4,
+      "score": 1.0
+    },
+    "director_compensation": {
+      "mentioned": true,
+      "total_mentions": 8
+    }
+  },
+  {
+    "filename": "NSE-Annual-Report-2022-Integrated-Report.txt.txt",
+    "governance_sections": {
+      "section_41": 15,
+      "section_45": 8,
+      "section_48": 6,
+      "corporate_governance": 29,
+      "risk_management": 41,
+      "remuneration": 5
+    },
+    "tunneling_risk": {
+      "indicators_found": [
+        {
+          "pattern": "related\\s*party\\s*transaction",
+          "count": 6
+        },
+        {
+          "pattern": "conflict\\s*of\\s*interest",
+          "count": 6
+        }
+      ],
+      "risk_score": 10,
+      "severity": "HIGH"
+    },
+    "cma_enforcement": {
+      "mentions": [
+        "sanction"
+      ],
+      "has_enforcement_issues": true
+    },
+    "audit_committee": {
+      "mentioned": true,
+      "independence_keywords": 4,
+      "score": 1.0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "NSE-Annual-Report-2023Interactive.txt.txt",
+    "governance_sections": {
+      "section_41": 13,
+      "section_45": 8,
+      "section_48": 5,
+      "corporate_governance": 17,
+      "risk_management": 36,
+      "remuneration": 4
+    },
+    "tunneling_risk": {
+      "indicators_found": [
+        {
+          "pattern": "related\\s*party\\s*transaction",
+          "count": 5
+        },
+        {
+          "pattern": "conflict\\s*of\\s*interest",
+          "count": 1
+        }
+      ],
+      "risk_score": 6,
+      "severity": "HIGH"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": true,
+      "independence_keywords": 4,
+      "score": 1.0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "NSE-Plc-2023-AGM-Chairmans-Aide-Memoire.txt.txt",
+    "governance_sections": {},
+    "tunneling_risk": {
+      "indicators_found": [],
+      "risk_score": 0,
+      "severity": "LOW"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": false,
+      "independence_keywords": 0,
+      "score": 0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "NSE_Training_Calendar_2026.txt",
+    "governance_sections": {
+      "corporate_governance": 1,
+      "risk_management": 1
+    },
+    "tunneling_risk": {
+      "indicators_found": [],
+      "risk_score": 0,
+      "severity": "LOW"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": false,
+      "independence_keywords": 0,
+      "score": 0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "Strategy_(2025-2029).txt",
+    "governance_sections": {
+      "corporate_governance": 3
+    },
+    "tunneling_risk": {
+      "indicators_found": [],
+      "risk_score": 0,
+      "severity": "LOW"
+    },
+    "cma_enforcement": {
+      "mentions": [],
+      "has_enforcement_issues": false
+    },
+    "audit_committee": {
+      "mentioned": false,
+      "independence_keywords": 0,
+      "score": 0
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  },
+  {
+    "filename": "final-ar-min.txt.txt",
+    "governance_sections": {
+      "section_41": 25,
+      "section_45": 7,
+      "section_48": 4,
+      "corporate_governance": 39,
+      "risk_management": 32,
+      "remuneration": 9
+    },
+    "tunneling_risk": {
+      "indicators_found": [
+        {
+          "pattern": "related\\s*party\\s*transaction",
+          "count": 4
+        },
+        {
+          "pattern": "conflict\\s*of\\s*interest",
+          "count": 6
+        }
+      ],
+      "risk_score": 10,
+      "severity": "HIGH"
+    },
+    "cma_enforcement": {
+      "mentions": [
+        "sanction"
+      ],
+      "has_enforcement_issues": true
+    },
+    "audit_committee": {
+      "mentioned": true,
+      "independence_keywords": 3,
+      "score": 0.75
+    },
+    "director_compensation": {
+      "mentioned": true,
+      "total_mentions": 3
+    }
+  },
+  {
+    "filename": "nse-integrated-report-and-financial-statements-1.txt.txt",
+    "governance_sections": {
+      "section_41": 20,
+      "section_45": 5,
+      "section_48": 4,
+      "corporate_governance": 27,
+      "risk_management": 38,
+      "remuneration": 5
+    },
+    "tunneling_risk": {
+      "indicators_found": [
+        {
+          "pattern": "related\\s*party\\s*transaction",
+          "count": 4
+        },
+        {
+          "pattern": "conflict\\s*of\\s*interest",
+          "count": 6
+        }
+      ],
+      "risk_score": 10,
+      "severity": "HIGH"
+    },
+    "cma_enforcement": {
+      "mentions": [
+        "sanction"
+      ],
+      "has_enforcement_issues": true
+    },
+    "audit_committee": {
+      "mentioned": true,
+      "independence_keywords": 3,
+      "score": 0.75
+    },
+    "director_compensation": {
+      "mentioned": false,
+      "total_mentions": 0
+    }
+  }
+]

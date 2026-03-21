@@ -1,0 +1,429 @@
+{
+  "scrape_date": "2026-03-21T10:42:28.914102",
+  "total_companies": 20,
+  "total_reports_attempted": 40,
+  "successful_downloads": 0,
+  "failed_downloads": 40,
+  "companies": {
+    "Safaricom": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Safaricom_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Safaricom_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Equity_Bank": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Equity_Bank_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Equity_Bank_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "KCB_Group": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "KCB_Group_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "KCB_Group_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Cooperative_Bank": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Cooperative_Bank_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Cooperative_Bank_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "NCBA_Group": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "NCBA_Group_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "NCBA_Group_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "DTB_Kenya": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "DTB_Kenya_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "DTB_Kenya_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Stanbic_Holdings": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Stanbic_Holdings_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Stanbic_Holdings_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Absa_Bank_Kenya": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Absa_Bank_Kenya_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Absa_Bank_Kenya_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Britam_Holdings": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Britam_Holdings_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Britam_Holdings_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Jubilee_Holdings": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Jubilee_Holdings_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Jubilee_Holdings_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "CIC_Insurance": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "CIC_Insurance_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "CIC_Insurance_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Sanlam_Kenya": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Sanlam_Kenya_2023_Annual_Report.pdf",
+          "status": "invalid_pdf",
+          "error": "Not a PDF file"
+        },
+        {
+          "year": "2022",
+          "filename": "Sanlam_Kenya_2022_Annual_Report.pdf",
+          "status": "invalid_pdf",
+          "error": "Not a PDF file"
+        }
+      ]
+    },
+    "EABL": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "EABL_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "EABL_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "BAT_Kenya": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "BAT_Kenya_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "BAT_Kenya_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Longhorn_Publishers": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Longhorn_Publishers_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Longhorn_Publishers_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Bamburi_Cement": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Bamburi_Cement_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Bamburi_Cement_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "KenGen": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "KenGen_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "KenGen_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Centum_Investment": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Centum_Investment_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Centum_Investment_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Nation_Media_Group": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Nation_Media_Group_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Nation_Media_Group_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    },
+    "Sasini": {
+      "years_attempted": [
+        "2023",
+        "2022"
+      ],
+      "years_downloaded": [],
+      "files": [
+        {
+          "year": "2023",
+          "filename": "Sasini_2023_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        },
+        {
+          "year": "2022",
+          "filename": "Sasini_2022_Annual_Report.pdf",
+          "status": "failed",
+          "error": "Download failed or invalid content"
+        }
+      ]
+    }
+  }
+}

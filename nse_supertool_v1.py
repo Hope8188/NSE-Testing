@@ -96,11 +96,23 @@ if __name__ == "__main__":
     # 1. Harvest
     reports = tool.harvest_report_links()
     
-    # 2. Sample Download & Extract (Limit to 3 for the 'Fast' burst)
-    for r in reports[:3]:
+    print(f"\n[*] Total reports found: {len(reports)}")
+    print("[*] Downloading ALL reports for comprehensive testing...\n")
+    
+    # 2. Download & Extract ALL reports (not just 3)
+    success_count = 0
+    for i, r in enumerate(reports, 1):
+        print(f"[{i}/{len(reports)}] Processing: {r['label'][:50]}...")
         path = tool.download_report(r)
         if path:
             txt = tool.extract_and_clean_text(path)
             if txt:
-                print(f"[SUCCESS] Processed: {txt}")
-        time.sleep(1) # Be nice
+                print(f"    [SUCCESS] {os.path.basename(txt)}")
+                success_count += 1
+        time.sleep(0.5) # Be nice
+    
+    print(f"\n{'='*60}")
+    print(f"SCRAPE PHASE COMPLETE")
+    print(f"{'='*60}")
+    print(f"Successfully processed: {success_count}/{len(reports)} reports")
+    print(f"Output directory: {tool.text_dir}")

@@ -1,0 +1,1449 @@
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 1 of 28  
+ 
+ NSE Strategy 2025 – 2029 
+ 
+INSPIRING AFRICA’S TRANSFORMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 2 of 28  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer 
+This document is intended solely for informational and Nairobi Securities Exchange strategic planning purposes. 
+The analysis, recommendations, and projections contained herein are based on current data, market conditions, 
+and available information at the time of preparation. While every effort has been made to ensure the accuracy 
+and reliability of the content, this document should not be considered as legal, financial, or professional advice. 
+The recommendations and strategies outlined are subject to change based on emerging trends, regulatory 
+updates, or shifts in the operational landscape. The authors and associated organizations do not accept liability 
+for any actions or decisions made based on the information provided in this document. Readers are encouraged 
+to seek independent advice and perform their own due diligence before implementing any strategies or 
+recommendations. 
+By proceeding, you acknowledge that you have read and understood this disclaimer, and that the information 
+provided is used at your own discretion. 
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 3 of 28  
+Table of Contents 
+1. 
+Executive Summary ......................................................................................................... 6 
+2. 
+Background.................................................................................................................... 8 
+2.1. 
+Background: Key Considerations Behind the Strategy..................................................... 8 
+Macro-Level Considerations.............................................................................................. 8 
+2.2. 
+Performance of the Nairobi Securities Exchange Over the Last Decade ............................10 
+2.2.1. 
+Key Performance Metrics ....................................................................................10 
+2.3. 
+Strengths, Weaknesses, Opportunities and Threats Analysis ...........................................12 
+1.1. 
+Internal Operating Environment. ...............................................................................12 
+1.1.1. 
+Strengths & Weaknesses .....................................................................................12 
+1.1.2. 
+Opportunities & Threats ......................................................................................13 
+2.4. 
+Our Strategic Hypothesis and Direction......................................................................14 
+3. 
+Strategic Imperatives ......................................................................................................16 
+3.1. 
+Our Strategic Ambition ...........................................................................................16 
+3.1.1. 
+Purpose Statement .............................................................................................16 
+3.1.2. 
+Vision Statement................................................................................................16 
+3.1.3. 
+Mission Statement..............................................................................................17 
+3.1.4. 
+Our Values .......................................................................................................18 
+3.1.5. 
+Our Business Model Canvas.................................................................................18 
+3.2. 
+Our Strategic Objectives for 2025 – 2029....................................................................21 
+3.2.1. 
+Our Big Hairy Audacious Goals ............................................................................21 
+3.2.2. 
+Strategic Objectives............................................................................................22 
+3.2.3. 
+Our Corporate Scorecard ....................................................................................25 
+4. 
+Implementation Considerations & Plan...............................................................................26 
+1.2. 
+Performance Management & Strategy Monitoring ........................................................26 
+1.3. 
+Critical Success Factors & Risks ...............................................................................26 
+5. 
+Relevant Internal NSE Documents.....................................................................................28 
+ 
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 4 of 28  
+Table of Abbreviations and Acronyms 
+Abbreviation/ Acronym 
+Definition 
+AfCFTA 
+African Continental Free Trade Agreement 
+AI 
+Artificial Intelligence 
+APIs 
+Application Programming Interface 
+ASEA 
+African Securities Exchange Association 
+BD 
+Business Development 
+BHAGs 
+Big Hairy Audacious Goals Our Big Hairy Audacious Goals 
+BI 
+Business Intelligence 
+BMC 
+Branding Marketing & Communication 
+BPR 
+Business Process Re-engineering 
+CAGR 
+Compound Annual Growth Rate 
+CAPEX 
+Capital Expenditure 
+CBOs 
+Community Based Organisation 
+CCP 
+Central Counterparty 
+CDS 
+Central Depository & Settlement 
+CDSC 
+Central Depository & Settlement Corporation Limited 
+CEO 
+Chief Executive Officer 
+CFO 
+Chief Financial Officer 
+CGT 
+Capital Gains Tax 
+CIA 
+Chief Internal Auditor 
+CIR 
+Cost-to-income ratio 
+CIS 
+Collective Investment Scheme 
+CMA 
+Capital Markets Authority 
+COO 
+Chief Operations Officer 
+COVID-19 
+Coronavirus Disease 2019 
+CRM 
+Customer Relationship Management 
+CS 
+Company Secretary 
+DFIs 
+Development & Finance Institutions 
+DMA 
+Direct - to -market Access 
+E2E 
+End to end 
+EABL 
+East African Breweries Ltd 
+EOIs 
+Expressions of interest 
+ERP 
+Enterprise Resource Management 
+ESG 
+Environmental, Social, and Governance 
+ETFs 
+Exchanged-Traded Funds 
+EXCO 
+Executive Committee 
+FinTech 
+Financial Technology 
+GDP 
+Gross Domestic Product 
+GoK 
+Government of Kenya 
+HODs 
+Head of Department 
+HR 
+Human Resources 
+IaaS 
+Infrastructure as a Serivce 
+JDs 
+Job descriptions 
+JE 
+Job Evaluation 
+JG 
+Job-Grading 
+JSE 
+Johannesburg Stock Exchange 
+JV 
+Joint Venture 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 5 of 28  
+Abbreviation/ Acronym 
+Definition 
+LMS 
+Learning Management Solutions 
+MNOs 
+Multi-national Organisations 
+NLP 
+Natural Language Processing 
+NPS 
+Net Promoter Score 
+NSE 
+Nairobi Securities Exchange 
+OPEX 
+Operation Expenses 
+PE 
+Price - Earning Ratio 
+POLD 
+Public Offerings, Listing, and Disclosures 
+PPPs 
+Public-Private Partnerships 
+REITs 
+Real Estate Investments Trusts 
+SaaS 
+Software-as-a-Service 
+SGF 
+Settlement Guarantee Fund 
+SLAs 
+Service Level Agreement 
+SLB 
+Securities Lending & Borrowing 
+SMEs 
+Small and Medium Enterprises 
+SWOT 
+Strengths, Weaknesses, Opportunities & Threats 
+TATs 
+Turnaround Times 
+USSD 
+Unstructured Supplementary Service Data 
+VPs 
+Value Propositions 
+YOY 
+Year-on-Year 
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 6 of 28  
+1. Executive Summary 
+The Nairobi Securities Exchange (NSE) is embarking on a visionary and transformative strategy designed to 
+revolutionize Kenya’s capital markets and position the NSE as a leading force in Africa’s financial landscape. At 
+the core of our strategy are ambitious and bold targets that align with our purpose of “Inspiring Africa’s 
+Transformation” and our commitment to unlocking the full potential of the African continent through innovative 
+market solutions. 
+Strategic Direction and Goals 
+Our strategic plan focuses on achieving several audacious goals that will drive both market growth and 
+operational excellence:  
+1. Expanding the Retail Investor Base: We aim to bring 9 million active retail investors into the market. This 
+bold move will democratize access to capital markets, giving millions of Kenyans the opportunity to 
+build wealth through investments. We will accomplish this by enhancing financial literacy, simplifying 
+the investment process, and leveraging digital technologies to make markets more accessible to 
+everyday Kenyans. Additionally, the exchange will recruit at least 500 NSE agents to ensure that we 
+reach underserved Kenyans in every part of the country.  
+2. Increasing the Number of Listed Companies: With a target to list 40 new companies, the NSE is committed 
+to attracting both large and small enterprises, including SMEs, to the exchange. By listing these 
+companies, we will deepen market liquidity, provide a wider array of investment opportunities, and 
+support the growth of local businesses. This will be achieved through campaigns that highlight the 
+benefits of listing and through regulatory innovations that reduce barriers to entry for smaller firms. 
+3. Achieving Operational Efficiency: We are working towards a cost-to-income ratio of 40%, signifying a 
+drive for operational excellence. By optimizing processes and utilizing cutting-edge technology, we aim 
+to deliver services more efficiently and sustainably, ensuring long-term financial viability. Achieving 
+operational efficiency will also call for review and re-engineering of processes and the structure as well 
+as placement of the right people in the right jobs with the right tools and support to serve different client 
+segments.  
+4. Becoming a Top Employer: NSE’s internal transformation will focus on becoming a Top 20 Employer of 
+Choice in Kenya. Through leadership development, a strong corporate culture, and employee 
+engagement, we will attract top-tier talent, positioning ourselves as a hub for innovation and excellence 
+in the financial sector. 
+5. Diversifying Investment Products: We plan to list 50 diverse funds, including exchange-traded funds (ETFs), 
+real estate investment trusts (REITs), and other innovative products. This will allow our investors to 
+diversify their portfolios and participate in both traditional and alternative investments, appealing to a 
+wide range of risk appetites and investor profiles. 
+6. Building a Beloved Brand: The NSE aims to become one of the Top 10 Most Loved Brands in Kenya, 
+leveraging on our values of Integrity, Excellence, Leadership, Boldness, and Innovation. We will build 
+trust and brand loyalty through transparent practices, bold leadership, and consistent delivery of value 
+to all market participants. 
+ Purpose, Vision, and Mission 
+Our strategic goals are firmly rooted in foundational statements: 
+- Purpose: “Inspiring Africa’s Transformation” – Our role goes beyond market transactions; it is about contributing 
+to the socio-economic growth of Africa by creating opportunities for businesses and individuals to thrive. 
+- Vision: “To be the preferred value creation partner” – We seek to build enduring partnerships with businesses, 
+investors, and stakeholders, focusing on long-term value creation and mutual growth. 
+- Mission: “Unleashing Africa’s potential through innovative capital markets solutions powered by People, Partnerships, 
+and Technology” – This mission underscores our commitment to harnessing the power of technology, human 
+talent, and strategic collaborations to drive innovation and unlock the continent’s vast economic potential. 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 7 of 28  
+Strategic Objectives 
+To achieve these bold goals, we have identified three core strategic pillars: 
+1. Revitalizing Markets: We will focus on reinvigorating Kenya’s capital markets by: 
+• 
+Expanding retail participation through accessible platforms, partnerships and agency networks and 
+investor education. 
+• 
+Developing new products, including sustainability-linked bonds, green finance, and impact investing 
+tools that align with global trends toward responsible investing. 
+• 
+Engaging with a diverse range of companies to encourage more listings and enhance liquidity, 
+making the market more dynamic and attractive to both local and international investors. 
+2. Harnessing Technology: In the fast-evolving world of finance, technology is a key driver. We will: 
+• 
+Implement cutting-edge digital solutions to improve market infrastructure, enhance transparency, 
+reduce transaction costs, and drive organisational effectiveness.  
+• 
+Explore AI, blockchain and other emerging technologies to secure transactions, offer more 
+innovative solutions and build a future-proof trading environment. 
+• 
+Create user-friendly platforms for investors, making it easier for them to engage in the market and 
+access real-time data and insights. 
+3. Optimizing Organizational Effectiveness: Internally, we will: 
+• 
+Focus on operational efficiency, using data analytics and automation to streamline processes and 
+reduce costs. 
+• 
+Invest in employee development, fostering a high-performance culture that is aligned with our 
+values of Excellence and Leadership. 
+• 
+Streamline our policies, procedures, processes and both corporate and organisational structures to 
+drive measurable improvements to our organisational effectiveness.  
+Commitment to Values 
+Throughout this journey, we remain steadfast in our commitment to our core values: 
+• 
+Integrity: Upholding the highest standards of ethical behavior, transparency, and accountability in all our 
+dealings. 
+• 
+Excellence: Continuously striving for superior performance, setting the bar high for the industry and us. 
+• 
+Leadership: Boldly leading the market with innovative solutions, becoming a thought leader in capital 
+markets across Africa. 
+• 
+Boldness & Innovation: Pushing boundaries and challenging the status quo to introduce groundbreaking 
+financial products and services that cater to the evolving needs of investors and businesses alike. 
+We are not just planning for incremental changes; we are setting the stage for a revolution in Kenya’s capital 
+markets. By focusing on retail investor growth, increasing listings, operational excellence, and embracing 
+technology, we will play a pivotal role in the transformation of Kenya’s and Africa’s economies. With our clear 
+purpose of “Inspiring Africa’s Transformation,” we are positioned to be a key catalyst for economic growth and 
+a trusted partner for businesses, investors, and governments, leading Africa into a new era of financial 
+empowerment. 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 8 of 28  
+2. Background 
+2.1. 
+Background: Key Considerations Behind the Strategy 
+Our bold strategy to transform Kenya’s capital markets through increased retail participation, new listings, and 
+innovative financial products is grounded in a thorough understanding of the current economic, social, and 
+technological landscape. Both macro and micro-level factors were instrumental in shaping this ambitious 
+strategy. These considerations, ranging from global economic trends to local market dynamics, provide the 
+foundation upon which our strategy is built. 
+Macro-Level Considerations 
+1. Global Economic Shifts and Africa’s Potential  
+- 
+Emerging Markets Focus: Globally, investors are increasingly turning their attention to emerging markets, 
+with Africa being seen as a key frontier for growth. The continent’s rapidly expanding middle class, coupled 
+with significant natural resources and technological advancements, presents an opportunity for capital 
+markets to support economic growth and attract foreign investment. 
+- 
+COVID-19 Recovery and Resilience: The global economic impact of the COVID-19 pandemic has reshaped 
+investor preferences toward more resilient and diversified portfolios. Capital markets, especially in 
+emerging economies like Kenya, need to provide a range of investment options to meet growing demand 
+for resilience through diversified asset classes, including technology and sustainability-linked investments. 
+- 
+Sustainability and ESG Trends: There is a growing shift toward Environmental, Social, and Governance 
+(ESG) - aligned investments. Institutional investors and funds are increasingly demanding sustainable 
+investment vehicles. This global trend has created an opportunity for the NSE to develop green finance 
+products, including green bonds and impact investment instruments, which align with global investor 
+priorities. 
+ 
+2. Technological Advancements and Digital Transformation  
+- 
+FinTech and Digital Innovation: The rise of financial technology (FinTech) has dramatically transformed 
+how financial markets operate. Digital trading platforms, blockchain technology, and the use of artificial 
+intelligence in market analytics are now essential elements of modern exchanges. Our strategy aims to 
+harness technology is in response to this global shift, ensuring that it remains competitive in an increasing 
+digital market. 
+- 
+Mobile Penetration in Africa: With the widespread adoption of mobile technology across Africa, Kenya has 
+become a global leader in mobile banking and digital finance. This technological infrastructure provides a 
+solid foundation for the NSE to attract retail investors through mobile-based trading platforms, expanding 
+access to the capital markets for millions of individuals who previously lacked the tools to participate. 
+ 
+3. Regional and Global Integration of Capital Markets 
+- 
+Africa’s Integration into Global Capital Markets: The African Continental Free Trade Agreement (AfCFTA) 
+aims to boost intra-African trade and investment. As African economies become more integrated, capital 
+markets will play a pivotal role in facilitating cross-border investments and trade. This strategy considers 
+the potential of regional integration, positioning us as a gateway for investors seeking exposure to the 
+broader African economy. 
+- 
+Competing Exchanges: NSE is aware of the growing competitiveness within Africa, with exchanges like the 
+Johannesburg Stock Exchange (JSE), Lagos Stock Exchange, and others vying for regional and 
+international investment flows. As such, NSE’s strategic focus on innovation, technology, and efficiency 
+aims to solidify its position as a leading exchange in East Africa, offering differentiated services that attract 
+both local and international investors. 
+4. Demographic dividend 
+Africa is currently the youngest continent, with over 60% of its population under the age of 25. By 2050, the 
+continent's working-age population (those between 15 and 64 years) is expected to grow to 1.1 billion people 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 9 of 28  
+against a total population of 2.5 billion representing 26% of the world’s population. This surge in the working-age 
+population will drive economic growth, creating a demographic dividend where the share of the labor force is 
+larger relative to dependents (children and elderly). Kenya is projected to see a similar trend, with an increasingly 
+urbanized, educated, and digitally connected youth population. With increased access to education, job 
+opportunities, and urbanization, Kenya’s middle class is expanding. This group represents a key target for capital 
+markets, as they possess greater disposable income and a growing appetite for investment. The middle class is 
+often characterized by increased financial literacy, demand for diversified investment products, and a focus on 
+wealth generation and long-term financial planning.  
+These demographic changes will bring new investors with a different approach to investing.  
+- 
+Digital Natives and Tech-Savvy Investors: The new generation of investors in Africa is digital first. With 
+widespread access to cell phones and the internet, young Kenyans are more likely to engage with 
+mobile-based financial platforms. This presents a significant opportunity for the NSE to digitally engage 
+retail investors through user-friendly online platforms that facilitate stock trading and other forms of 
+investment based on real-time data, educational and trading resources.  
+- 
+Demand for Innovative and Impact-Driven Products: The younger generation of investors is not only 
+looking for profit but also purpose. Millennials and Gen Z investors are increasingly concerned with 
+sustainability and social impact, aligning their investment decisions with companies and funds that 
+prioritize environmental, social, and governance (ESG) issues. NSE's focus on listing 50 diverse funds, 
+including sustainability-linked products like green bonds and impact investment funds, is a direct 
+response to this shift in investor preferences. 
+- 
+Access to Low-Cost Investment Products: With more first-time and small-scale investors entering the 
+market, there is increasing demand for low-cost investment products that offer flexibility and lower risk. 
+Exchange-traded funds (ETFs), real estate investment trusts (REITs), and other products that provide 
+diversification at lower entry points are becoming more popular, especially among young investors who 
+may be more risk-averse or have limited capital. 
+ 
+5. Regulatory Environment and Government Support  
+- 
+Supportive Regulatory Framework: The Government of Kenya has taken steps to create an enabling 
+environment for the capital markets through supportive policies and regulatory reforms. The Capital 
+Markets Authority (CMA) has been working toward easing regulatory barriers for listings, introducing 
+financial products, and enhancing market integrity. This environment supports the NSE’s goals of 
+increasing listings and diversifying investment products. 
+- 
+Tax Incentives and Market Development Policies: Government-led incentives to promote the listing of 
+companies, particularly small and medium-sized enterprises (SMEs), and favorable tax policies for 
+investors and issuers, create a fertile environment for NSE’s growth strategies. Moreover, ongoing 
+reforms aimed at deepening the financial market provide a solid foundation for the exchange’s 
+development goals. 
+6. Investor Sentiment and Retail Market Potential  
+- 
+Low Retail Investor Participation: Currently, retail participation in Kenya’s capital markets remains low, 
+driven by limited financial literacy, access issues, and lack of trust in financial institutions. With an 
+estimated 9 million Kenyans having the potential to invest but currently not engaging in the capital 
+markets, the NSE sees significant potential in capturing this underserved market segment through 
+investor education, simplified platforms, and accessible investment products. 
+- 
+Untapped Savings and Wealth Creation: Kenya’s high savings rates in informal sectors highlight an 
+untapped pool of capital that could be redirected into the capital markets. By offering low-cost 
+investment products and financial inclusion initiatives, the NSE can attract these savings into formal 
+market channels, providing retail investors with a path to wealth creation while deepening market 
+liquidity. 
+ 
+7. Challenges Facing Kenyan Enterprises 
+- 
+Capital Access for SMEs: Small and medium-sized enterprises (SMEs) in Kenya form a sizable portion of 
+the economy but face significant hurdles in accessing capital. The NSE’s focus on listing 40 new 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 10 of 28  
+companies, many of which could be SMEs, addresses this gap by providing these businesses with access 
+to growth capital. The development of alternative listing boards for smaller firms aligns with the NSE’s 
+objective of expanding the number and diversity of listed companies. 
+- 
+Corporate Governance and Transparency: Corporate governance in Kenyan firms, especially family-
+owned businesses, and SMEs, remains a challenge. By offering corporate governance services and 
+preparing companies for public listing, the NSE aims to improve transparency, boost investor 
+confidence, and enhance the attractiveness of these companies to both local and international investors. 
+The development of NSE’s strategy is informed by a blend of global trends, local market realities, and internal 
+organizational needs. At the macro level, global shifts toward technology, sustainability, and regional integration 
+create new opportunities for the exchange to expand its influence and attract investors. Meanwhile, at the micro 
+level, the potential for retail market expansion, the need for SME capital access, and internal operational 
+efficiency drive the specific goals laid out in this strategy. As the NSE embarks on this transformative journey, it 
+is well-positioned to address these challenges and opportunities, ensuring that it remains a pivotal player in 
+Africa’s economic future. 
+2.2. 
+Performance of the Nairobi Securities Exchange Over the Last 
+Decade 
+Over the past decade, the Nairobi Securities Exchange (NSE) has experienced both peaks of robust performance 
+and periods of decline, driven by various macroeconomic and microeconomic factors. The NSE’s key metrics, 
+such as the NSE 20 Share Index, market capitalization, and the participation ratio between local and foreign 
+investors, reveal the broader trends affecting the market. Understanding these metrics provides context for why 
+NSE's new strategy is now focusing heavily on local retail participation. 
+2.2.1. 
+Key Performance Metrics 
+1. NSE 20 Share Index: 
+ The NSE 20 Share Index is a key performance indicator that tracks the price movements of the top 20 blue-chip 
+companies listed on the exchange. Over the past decade, the NSE 20 index has fluctuated significantly, with its 
+highest performance occurring between 2014 and 2015, where the index was near 5,000 points. This was driven 
+by high investor confidence, strong corporate earnings, and favorable macroeconomic conditions. However, 
+recent years have seen significant drops. In 2023, for instance, the index dropped to as low as 1,416 points, 
+highlighting a 10% retreat from earlier in the year, and marking one of the worst performances among African 
+exchanges. This has since reversed with the share index improving to 1861 as at the end of October 2024.  
+2. Market Capitalization: 
+ Market capitalization, which represents the total value of all listed shares, also followed a similar pattern. During 
+its peak in 2015, the NSE’s market capitalization was well above KES 2 trillion. However, by 2023, investor wealth 
+had fallen sharply, with a loss of about KES 498 billion, bringing the market capitalization down to KES 1.487 
+trillion. Much of this decline has been attributed to factors such as foreign investor exits, depreciation of the 
+Kenyan shilling, and a global economic downturn. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 11 of 28  
+3. Foreign vs. Local Investor Participation:   
+ 
+Over the last decade, foreign investors have dominated the trading activity on the NSE, particularly in high-cap 
+stocks such as Safaricom, Equity Bank, and East African Breweries Ltd (EABL). However, foreign investment 
+has been highly volatile. For example, in 2023, the NSE saw significant foreign outflows, particularly due to a 
+weakened shilling and a flight to safety by global investors, resulting in a net foreign outflow of KES 18.6 billion. 
+This trend was exacerbated by global economic uncertainties and rising yields in safer markets, like the U.S. In 
+contrast, local retail investor participation has been minimal, which has left the market vulnerable to foreign 
+capital flight during periods of volatility. Figure 1 below shows the trading trends of local versus foreign investors:  
+The flight of the local investors since 2014 has seen the NSE 20 share index drop steadily towards a low of 1416 
+points in the last ten years. This is shown in figure 2 below.  
+ 
+Figure 2: NSE 20 Share index mirroring local investor participation 
+The heavy reliance on foreign investors has resulted in high volatility for the NSE, particularly during global 
+economic shocks. As seen in recent years, large-scale exits by foreign investors, particularly in 2022-2023, have 
+Figure 1: Turnover attributed to local vs. foreign investors since 2008 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 12 of 28  
+led to sharp declines in market indices and capitalization. The resulting vulnerability has underscored the need 
+for the NSE to focus on developing a stable local investor base to ensure more consistent liquidity and reduce 
+dependency on foreign capital. 
+The NSE’s new strategy to target 9 million active retail investors is a response to this dynamic. By increasing 
+local participation, the exchange aims to: 
+- 
+Create a more stable source of market liquidity that is less affected by global economic cycles. 
+- 
+Broaden the base of investment, tapping into Kenya’s rising middle class and encouraging savings to be 
+directed into capital markets. 
+- 
+Foster a sense of ownership and trust in the local market, which could mitigate the sharp impacts of 
+foreign investor exits and market volatility. 
+- 
+Moreover, as technology improves, there are new opportunities to reach previously underserved retail 
+investors via mobile trading platforms, leveraging Kenya’s strong mobile penetration rates. This can 
+provide easier access to the stock market for millions of Kenyans, potentially transforming the local 
+capital market landscape. 
+2.3. 
+Strengths, Weaknesses, Opportunities and Threats Analysis 
+1.1. 
+Internal Operating Environment.  
+We reviewed our internal current state to understand areas where we needed to improve our performance to 
+meet the targets set out in this strategy. We have in the last ten years built distinctive products, programs and 
+solutions that need to be enhanced and deployed to drive the impact we aim to achieve by 2029.  
+1.1.1. 
+Strengths & Weaknesses 
+ 
+Factor  
+Strengths  
+Weaknesses 
+Brand name and 
+market positioning 
+The NSE has a well-respected brand 
+name and brand recognition as a 
+leading exchange in Africa. The 
+exchange is also licensed by the 
+Capital Markets Authority (CMA).  
+- The brand name is perceived to be elitist. It does not 
+appeal to the retail investor who believes that it is 
+complicated to invest in the exchange.  
+- Persistent 
+low liquidity and trading volumes 
+especially in equity and derivatives.  
+- Significantly undervalued counters (Buffet’s indicator 
+– Market Cap/GDP - at 12%) 
+- Confidence crisis due to collapse of market 
+intermediaries and listed companies.  
+- Dependence on the market ecosystem to access 
+investors.  
+- Subdued market activity due to lack of new listings.  
+- Weakening financial performance due to rising costs 
+of operations against static revenues.  
+- Sub-optimal pricing of products, programs, and 
+solutions.  
+Government and 
+other stakeholders 
+support 
+GoK sees the exchange as an 
+important part of the capital markets 
+and is seeking to list public companies 
+on the exchange as well as streamline 
+the investment process. Similarly, the 
+CMA is committed to supporting 
+investments at the NSE.  
+Despite support from government and regulators the 
+ability to attract quality listings are beyond the control 
+of the NSE.  
+Professional, 
+experienced, and 
+supportive board 
+Board members are experienced in the 
+capital markets and represent a wide 
+variety of professional skills sets and 
+experience that are instrumental to the 
+implementation of the strategy.  
+The poor implementation of the previous strategy 
+because of COVID-19 meant that these skills and 
+expertise could not be utilized to their fullest extent.  
+Products, Programs 
+and Solutions 
+NSE has evaluated and implemented 
+solutions geared towards meeting 
+investor needs through a diversified 
+portfolio as well as offering businesses 
+Most of the products, programs and solutions have not 
+yielded the returns that were expected due to poor 
+implementation, external factors, and poor marketing.  
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 13 of 28  
+in Kenya and opportunity to raise 
+capital.  
+Technology 
+Platforms 
+The NSE’s technology platforms have 
+proven to be dependable, ensuring a 
+high level of availability.  
+These platforms may not meet the future needs of the 
+NSE as more retail investors enter the exchange. 
+Additionally, the total cost of ownership of these 
+platforms is remarkably high where there are other 
+solutions that may be cheaper to own and are not 
+capital intensive.  
+Collaborations and 
+partnerships with 
+other African 
+exchanges 
+The NSE is a member of the African 
+Securities Exchange Association and 
+has been recognized as a most 
+innovative exchange in Africa.  
+As a member of ASEA, the NSE has not utilized the 
+opportunity to encourage cross-listings and other forms 
+of 
+collaboration 
+that 
+would 
+offer 
+investors 
+opportunities in leading companies across Africa.  
+Organisational 
+Effectiveness and 
+Talent 
+The NSE has an experienced capital 
+markets team. The organisation is 
+ready for change.  
+- The organisational structure is not aligned to the 
+strategic intent of the NSE.  
+- The job descriptions are not fit for purposes affecting 
+career growth and leadership development. 
+- The organisational processes are unnecessarily 
+bureaucratic slowing down decision-making and 
+collaboration across functions.  
+- Silos and internal competition leading to sub-optimal 
+outcomes.  
+- Poor strategic focus leading to low accountability 
+and poor resource allocation.  
+- High cost-income ratio due to organisational 
+ineffectiveness and high costs of technology.  
+- Low trust working environment.  
+ 
+Table 1: Strengths & W eaknesses 
+The strengths and weaknesses identified in Table 1 above will be addressed in this strategic period to  
+support growth of the NSE into an agile and efficient exchange firm that will support the much-needed access 
+to capital and capital solutions for businesses in Kenya and investment options for investors.  
+1.1.2. 
+Opportunities & Threats 
+Factor 
+Opportunity  
+Threat 
+Demographic 
+Dividend 
+By 2030, Kenya’s population is expected to hit 57million, at 
+least 29 million of these individuals will be in employment 
+with an increasing income per capita and therefore ability to 
+save and invest. An opportunity exists of mobilizing savings 
+and investments from local retail investors. The participation 
+of the local retail investor dipped significantly for the last ten 
+years leaving the market vulnerable to foreign investors who 
+react faster to political uncertainty.  
+Challenging macro-economic and policy 
+environment may affect the growth rate of 
+the income per capita reducing anticipated 
+growth. Low financial literacy and 
+awareness may slow down the uptake of 
+investment opportunities. Additionally, 
+Geopolitics and Political instability has a 
+disproportionate effect on the exchange. 
+ 
+Technology  
+Advances in technology, especially mobile telephony, and a 
+well-developed mobile telephony network offers an 
+opportunity for more efficient and cost-effective ways to 
+serve investors. Fintech, which can offer ‘direct-to-market 
+access’ (DMA) will increase the participation of the 
+technology-savvy population who are used to real-time 
+fulfilment. Emergence of AI, Blockchain, Big data and 
+robotics offering better services and more informed trading 
+opportunities will draw in more investors to the exchange. 
+The exchange can also invest in tech solutions such as digital 
+assets, tokenization, exchange-as-a-service’ among others.  
+Costs associated with deploying 
+appropriate technology may slow down the 
+adoption of these technologies.  
+National and 
+County 
+Government 
+solutions 
+The opportunity to meet public sector financing needs such 
+as Public-Private Partnerships (PPPs), Pending Bills, 
+Affordable Housing, county projects etc.  
+The relevant legal and regulatory 
+requirements may slow down the 
+implementation of these solutions.  
+Corporate and 
+SME solutions  
+Repurposing current programs, products, and solutions to 
+better meet the needs of the private sector. Introduction of 
+innovative solutions such as working capital, pre-settlement 
+support, Lombard loans, depositary notes and invoice 
+discounting targeted at the private sector.  
+  
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 14 of 28  
+Fees and pricing 
+Based on the Public Offerings, Listing, and Disclosures 
+(POLD) Regulations (2023), there is an opportunity to review 
+and reprice fees, costs and levies for equities, fixed income 
+and derivatives leading to higher revenues for the NSE.  
+Higher trading costs may discourage local 
+retail investors from joining the market.  
+Organisational 
+Effectiveness and 
+technology to 
+support efficiency.  
+This strategy seeks to improve organisational effectiveness 
+through the transformation of the NSE operating model, 
+technology platforms and workforce planning. These will 
+include the development of an appropriate corporate and 
+organisational structure, re-engineering of processes and the 
+establishment of new ways of working that supports a high-
+performing team. These changes will lay the foundation for 
+an effective performance management framework that will 
+encourage innovation and reward high productivity.  
+Resistance to change and failure to achieve 
+the envisaged transformation if it is not 
+supported by adequate resources and 
+robust implementation plan.  
+Sustainability and 
+ESG agenda 
+The growing interest of both investors and businesses 
+seeking capital offers an opportunity to develop products 
+that support these agendas. These include green bonds, 
+gender bonds, among others. There is also an opportunity for 
+the NSE to champion the adoption of these practices by 
+listed companies.  
+ 
+Rebranding and 
+reposition the 
+NSE 
+Opportunity to demystify the NSE and attract more listing 
+and investors to the market. This will include re-evaluating 
+the listing requirements, automating the self-assessments to 
+support self-listing, and simplifying listing requirements. The 
+NSE will need to establish DMA and deploy an agency 
+network to engage retail investors across the country, while 
+enhancing service delivery for local and foreign institutional 
+investors.  
+ 
+Cross-listings 
+An opportunity to encourage cross-listing between 
+exchanges in Africa. This would consist of listed companies 
+in the NSE listing in other exchanges and vice versa.  
+ 
+Table 2: Opportunities & threats 
+The review of the external and internal operating environments has been used as a basis to develop our key 
+interventions in revitalising the exchange. We are keen to develop an agile and responsive organisation that will 
+innovate around access to capital for both the private and public sectors.  
+2.4. 
+Our Strategic Hypothesis and Direction 
+A review of the external and internal operating environment has revealed significant opportunities to transform 
+the NSE to serve the needs of investors and businesses in Kenya and across Africa. The SWOT analysis reveals 
+that we are at the cusp of revolutionizing the way we create value for our stakeholders.  
+To pursue this strategic 
+direction the strengths 
+and opportunities call us 
+to 
+revitalize 
+our 
+markets, 
+while 
+the 
+weaknesses and threats 
+call 
+us 
+to 
+build 
+organisational 
+effectiveness and utilize 
+technology to ensure 
+that we are agile and 
+responsive 
+to 
+our 
+changing operational environment. Figure 1 depicts this relationship.  
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 15 of 28  
+Based on this hypothesis we have developed a strategic direction that will bring a significant step change in the 
+way we interact with our markets as well as how we organize ourselves internally and use technology to drive 
+efficiency and cost-effectiveness. Figure 2 below outlines what our strategic focus will be:  
+ 
+Figure 4: Key strategic pillars defining our strategic direction 
+We strongly believe that one of the key actions to revitalize our markets is to increase the number of active retail 
+local investors by ensuring that we make trading transparent and accessible to the ‘mwananchi.’ This will have 
+the effect of stabilizing the market and driving up trading revenues. We will also focus on developing products 
+that are relevant to the needs of corporates and SMEs in the country. To achieve these outcomes will require 
+driving investor awareness in the market, rebranding the NSE as a preferred investment option and build on our 
+partnerships to provide an ecosystem that offers a large variety of investment opportunities.  
+Revitalizing the market will in turn require that we drive organisational effectiveness backed by reliable, cost-
+effective technology platforms to support the market and the operations of the NSE.  
+The next section details how we will achieve this ambitious strategy to bring at least 9 million active retail 
+investors into our market.  
+ 
+ 
+ 
+ 
+Figure 3: Our strategic direction based on the current state assessment 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 16 of 28  
+3. Strategic Imperatives 
+This chapter details our strategic ambitions expressed as our purpose, vision, and mission statements. The 
+ambition is underpinned by our values and value propositions captured in our business model canvas. The 
+value propositions outline what we intend to be world-class in, what we will be known for and what we will use 
+to differentiate our services in the sector.  
+3.1. 
+Our Strategic Ambition 
+3.1.1. Purpose Statement 
+Our purpose statement is: Inspiring Africa’s Transformation,’ which conveys a bold vision to position the NSE 
+not merely as a marketplace but as a catalyst for broader socio-economic progress in Africa. It includes:  
+1. Empowering Economic Growth: By facilitating access to capital for businesses, we enable companies to 
+grow, innovate, and create jobs. This drives economic empowerment across Africa, supporting 
+sustainable development and helping economies become more resilient and less dependent on external 
+aid. Our purpose statement calls us to start this Africa-wide growth in Kenya, where we will seek to 
+empower economic growth at individual, household, private and public sectors.  
+2. Encouraging Financial Inclusion: With a goal of bringing 9 million active retail investors to the market, we 
+aim to democratize access to investment opportunities. By making the market accessible to more 
+individuals, including those who traditionally have not invested, we will foster a culture of financial 
+literacy, savings, and wealth creation among everyday Africans. 
+3. Supporting Africa’s Businesses to Thrive: By listing 40 new companies, we aim to become a growth 
+platform for African businesses of all sizes. Through capital raised on the exchange, businesses can 
+invest in expansion, innovation, and sustainability, thus fueling sectors critical for Africa’s future—such 
+as agriculture, healthcare, and technology. 
+4. Sustainable Development and Innovation: The focus on technology and a commitment to offering 
+innovative capital market solutions reflects our role in driving progress that aligns with Africa’s 
+developmental priorities. This includes addressing challenges such as climate change, infrastructure 
+gaps, and digital transformation, which are key for Africa’s sustainable future. 
+5. Transforming Perceptions of African Markets: By aiming to become a Top 10 most loved brand in Kenya 
+and a Top 20 employer of choice, we will demonstrate a commitment to building trust and a powerful 
+reputation. This will attract global investors and solidify Africa's place as a viable and attractive 
+investment destination, transforming global perceptions of African capital markets. 
+“Inspiring Africa’s Transformation” represents our timeless aspiration to function as a pivotal force that drives 
+change across sectors, communities, and economies throughout Africa, laying the foundation for a prosperous 
+and self-sustaining future for the continent. 
+3.1.2. Vision Statement 
+Our vision statement is “To be the preferred value creation partner". Our vision statement emphasizes our goal 
+to become the go-to platform for generating and maximizing value for all our stakeholders, including investors, 
+businesses, and the broader economy. The vision entails:  
+1. Building Trust and Reliability: By aiming to be "preferred," we are committing to building trust and 
+becoming a reliable institution that stakeholders consistently choose over other platforms. This implies 
+delivering a dependable, transparent, and efficient marketplace where investors, companies and 
+government can achieve their goals with confidence. 
+2. Maximizing Value for Investors: For retail and institutional investors, "value creation" means offering a 
+broad spectrum of profitable investment opportunities and innovative products. This will include 
+expanding asset classes, improving market liquidity, and reducing transaction costs, which would help 
+investors achieve optimal returns on their investments. 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 17 of 28  
+ 
+3. Supporting Business Growth: As a "partner" in value creation, we aim to serve businesses by facilitating 
+access to capital, which is critical for growth, expansion, and innovation. By connecting companies 
+with investors, we will empower businesses to scale, thus contributing to job creation and economic 
+resilience. 
+4. Fostering Economic and Social Impact: The focus on “value creation” extends beyond financial returns 
+to encompass positive social and economic impacts, aligning with broader African development goals. 
+Through initiatives like financial inclusion, small business support, and ESG (Environmental, Social, 
+and Governance) principles, we will create value that benefits society at large. 
+5. Becoming a Strategic Partner for Africa’s Growth: The term “partner” indicates a collaborative, strategic 
+relationship with various stakeholders, including governments, regulators, and financial institutions. By 
+working together to create a thriving, dynamic market ecosystem, the NSE can be instrumental in 
+transforming Africa’s financial landscape and stimulating long-term economic growth. 
+"To be the preferred value creation partner" reflects our aspiration to go beyond being just a financial exchange. 
+We envision ourselves as a collaborative, value-driven institution that catalyses growth, prosperity, and 
+sustainability for our stakeholders, making it indispensable for Africa's transformation. We will work to achieve 
+this vision in this and the next strategic periods.  
+3.1.3. Mission Statement 
+Our mission statement is: "Unleashing Africa’s potential through innovative capital markets solutions powered 
+by People, Partnerships, and Technology" reflects our dedication to driving Africa’s development by leveraging 
+creative and advanced financial solutions. Here’s a closer interpretation of its components: 
+1. Unleashing Africa’s potential: This part of the mission speaks to our commitment to unlocking Africa’s 
+vast, untapped resources—its human capital, natural assets, and growing markets. We aim to be a 
+catalyst for the continent’s growth by creating pathways for companies, investors, and communities to 
+realize their full potential through the opportunities that capital markets provide. 
+2. Innovative capital markets solutions: This phrase highlights our focus on introducing groundbreaking 
+financial products, services, and market models tailored to Africa’s unique needs. Innovation includes 
+digital trading platforms, new asset classes, socially responsible investing products, or financial products 
+for small and medium-sized enterprises. These solutions will support growth, diversify investment 
+options, and help address specific challenges such as limited access to funding. 
+3. Powered by People: People are at the core of our mission. We will prioritize a skilled, knowledgeable, and 
+customer-focused team that understands the diverse needs of African markets and stakeholders. 
+Additionally, it points to our role in fostering financial literacy and inclusion, ensuring that a wider 
+population can engage with and benefit from capital market opportunities. 
+4. Powered by Partnerships: This element emphasizes the importance of collaboration. By working with 
+government entities, regulators, stockbrokers, investment banks, custodians, fund managers, CDSC,  
+other stock exchanges, financial institutions, development agencies, and private sector partners, we will 
+achieve greater impact. Partnerships allow us to combine resources, share expertise, and expand our 
+reach across Africa, enhancing our ability to develop resilient and inclusive markets. 
+5. Powered by Technology: Technology is a critical enabler of innovation and expansion in modern capital 
+markets. Through technology, we will enhance trading efficiency, improve transparency, and broaden 
+access for retail and institutional investors alike. Advanced technology will also support data analytics, 
+cybersecurity, and real-time reporting, which are essential for modernizing African markets and making 
+them competitive on a global scale. 
+This mission statement underscores our goal of becoming a transformative force in Africa by creating accessible, 
+innovative, and inclusive capital markets.  
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 18 of 28  
+3.1.4. Our Values 
+The values of Integrity, Excellence, Leadership, and Boldness & Innovation set a foundation for our culture and 
+guide how we operate to fulfill our mission and vision. Here is an interpretation of each value in the NSE’s context: 
+1. Integrity: Integrity is central to building trust in the capital markets. For us, this means adhering to the 
+highest standards of honesty, transparency, and ethical practices in all interactions and transactions. 
+Integrity ensures that investors, companies, and partners can rely on us as a fair and trustworthy 
+marketplace. It underscores the importance of regulatory compliance, accurate financial reporting, and 
+protecting the interests of all stakeholders, fostering long-term credibility and reliability in the market. 
+2. Excellence: Excellence reflects our commitment to delivering superior quality in our services, operations, 
+and overall performance. This value drives us to consistently meet and exceed the expectations of 
+investors, listed companies, regulators, and other stakeholders. Excellence can be seen in efforts to 
+optimize processes, continuously improve technology platforms, and provide outstanding customer 
+service. By setting ambitious standards, we aim to inspire confidence and attract both local and 
+international participants to its marketplace. 
+3. Leadership: As one of Africa’s leading capital markets, we embrace leadership to set the tone for growth, 
+best practices, and innovation across the continent. This value encourages us to pioneer new initiatives, 
+drive positive change, and be a role model for other African exchanges. Leadership also involves 
+advocating for policies that promote financial inclusion, sustainable investment, and economic 
+resilience. By taking a proactive stance in policy, market education, and innovation, we will position 
+ourselves as a forward-thinking, influential entity in Africa’s financial ecosystem. 
+4. Boldness & Innovation: Boldness & Innovation reflects our ambition to break new ground and adopt 
+creative solutions that advance Africa’s capital markets. This value encourages us to take calculated 
+risks, explore new investment products, embrace digital transformation, and adapt to the rapidly 
+changing financial landscape. Boldness drives us to lead on initiatives that may be new or untested in 
+the African context, while innovation ensures that these efforts are both strategic and sustainable. This 
+value supports our mission to bring transformative changes to the continent’s markets and attract a new 
+generation of investors. 
+Together, these values position us as a resilient, forward-looking institution that serves as a dependable partner 
+for investors and companies, promoting a vibrant and inclusive capital market ecosystem that is essential to 
+Africa’s growth and transformation. 
+ 
+3.1.5. Our Business Model Canvas 
+The Business Model Canvas simplifies our strategy by breaking it down into fundamental components, making 
+it easier to communicate, align, and execute. It will serve as a dynamic framework to visualize how all aspects of 
+our strategy—value creation, resources, partnerships, and revenue generation—work together to achieve our 
+mission and vision in line with our purpose and values.  
+Figure 5 shows our business model canvas that clarifies our value propositions; identifies key stakeholders and 
+relationships; highlights key resources and activities; revenue streams and resource allocation and cost structure. 
+These are explained in detail the section that follows.  
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 19 of 28  
+ 
+Figure 5: NSE Business Model Canvas 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 20 of 28  
+The key components of our business model are outlined below.  
+1. Customer Segments: The primary customer segments are ‘Investors (retail, institutional, and government)’ 
+and Issuers. This reflects a two-sided market where the exchange connects those looking to invest 
+(demand side) with companies and entities seeking to raise capital (supply side). Additionally, we will 
+aim to improve our services to the non-trading clients who include our tenants, consulting, and 
+technology clients.  
+2. Value Propositions: Our value proposition consists of credible and diverse investment opportunities, 
+efficient and predictable access to capital, and tailored, timely professional services. We are committed 
+to providing reliable, varied investment options and ensuring that capital flows smoothly to where it is 
+needed, creating value for both investors and issuers. We will also build excellent service offerings for 
+our non-trading clients to ensure that we grow revenues from these clients to 60% of the revenues 
+generated by the NSE.  
+3. Customer Relationships: We will maintain our relationships primarily through Investor Relations and 
+Issuer Support. These services are designed to build trust and offer support tailored to the needs of 
+investors and issuers, fostering a positive experience and engagement across all customer segments. 
+4. Channels: We will reach our customer segments through Online Trading, DMA (Direct Market Access), 
+Agents, and Intermediaries. These channels allow for efficient and convenient market access, ensuring 
+that investors and issuers can participate in the market from various access points, both directly and 
+through intermediaries. 
+5. Key Partners: Our main partners include Government & Regulators, Market Intermediaries, Financial & 
+Development Partners, Technology Solution Providers, and Exchanges & Associations. These 
+partnerships are essential for regulatory compliance, market operations, technology infrastructure, and 
+expanding access to markets. For example, collaborating with regulators ensures that we operate within 
+legal frameworks, while technology providers enhance trading platforms and operational technology to 
+drive efficiency.  
+6. Key Activities: Our core activities include Product Development, Knowledge Transfer, Regulatory 
+Compliance, Thought Leadership, Investor Education, and Investor Awareness. These activities enable 
+us to support market growth, ensure a strong regulatory environment, and educate stakeholders. 
+Product development and investor education are crucial for engaging new investors and introducing 
+innovative financial products that meet market needs. 
+7. Key Resources: Our key resources include Technology, Financial Capital, Human Capital, Marketplaces, 
+Brand Equity, and Enabling Frameworks. Technology is essential for trading platforms, while financial 
+and human capital drive operational effectiveness. Brand equity helps establish trust with investors and 
+enabling frameworks (regulatory and operational) support market stability and compliance. 
+8. Cost Structure: Our main costs include OPEX (Operational Expenditures such as tech, staff, and agency 
+costs), CAPEX (Capital Expenditures), and Regulatory Capital. This structure shows a significant 
+investment in technology and human resources to maintain efficient operations and compliance, which 
+aligns with our focus on operational excellence. 
+9. Revenue Streams: The NSE generates revenue through Trading Revenues (transaction fees from trading 
+activities) and Non-trading Revenues (such as consulting services, data services and rental income). The 
+diversification of revenue sources is crucial for financial stability and growth, reducing reliance solely on 
+trading fees. 
+Our BMC aligns with our focus on building a value-driven institution that supports economic growth by 
+connecting investors with capital needs through a well-regulated, innovative, and accessible platform. The 
+focus on partnerships, technology, investor education, and diverse revenue streams aligns with its mission 
+to "Unleash Africa’s potential" and supports our vision of being the "preferred value creation partner." This 
+model demonstrates a comprehensive approach to balancing operational efficiency, customer focus, and 
+sustainable revenue generation, setting a solid foundation for our long-term strategy. 
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 21 of 28  
+3.2. 
+Our Strategic Objectives for 2025 – 2029 
+Our strategic objectives have been developed from the current state assessment, our ambition and our big 
+hairy audacious goals. We are excited by the possibilities presented to us by our operating environment 
+and the growth opportunities presented by our country and our continent.  
+3.2.1. Our Big Hairy Audacious Goals 
+Our Big Hairy Audacious Goals (BHAGs) are our ambitious targets that aim to inspire and guide the 
+organization toward substantial transformation. Figure 6 shows what these goals are:  
+ 
+Figure 6: Our BHAGs 
+1. 9 Million Active Retail Investors: This goal highlights our ambition to significantly increase 
+participation from local retail (individual) investors. The target of 9 million active retail investors 
+indicates a desire to democratize access to the market, promoting financial inclusion and enhancing 
+capital market participation across Kenya and potentially the broader African region. Achieving 
+this goal would require extensive investor education, simplified onboarding processes, and 
+accessible trading platforms. This goal targets one-third of Kenya’s working population aged 
+between 18 and 64, which current stands at 32 million. This working population is expected to 
+grow from the current 51% of the total population to 54% by 2030. Additionally, Kenya’s GDP per 
+capita in PPP terms is expected to grow from the current $6323 to $8469 affording more Kenyan 
+households savings and investment capability. We are positioned to reap the demographic 
+dividend of a young, urbanised and educated population by repositioning the NSE to attract local 
+retail investors.  
+2. 40 Listed Companies: The goal of listing 40 new companies on the NSE emphasizes our focus on 
+expanding the range of investment opportunities. Increasing the number of listed companies would 
+diversify the market offerings, provide investors with more choices, and support the growth of local 
+businesses. This also reflects our role as a vital platform for companies seeking capital to fuel 
+growth and innovation. 
+3. 50 Diverse Listed Funds: This goal points to our intention to broaden our product offerings by 
+including a variety of funds—such as mutual funds, exchange-traded funds (ETFs), and other 
+managed funds. We will focus on catering to various investor preferences, risk tolerances, and 
+investment objectives. Offering 50 diverse funds will attract a wider audience, including those 
+interested in managed investment options. 
+4. Achieving a 40% Cost-to-Income Ratio against a revenue of KES 3B by 2029: A cost-to-income ratio of 
+40% signifies our goal of improving operational efficiency and financial sustainability. This target 
+would require optimizing expenses relative to revenue, through streamlined operations, 
+automation, and careful resource allocation.  
+5. Top 20 Employer of Choice in Kenya: We aim to become one of the most desirable workplaces in 
+Kenya, which involves attracting, retaining, and developing top talent. Being a "Top 20 Employer 
+9 million active
+local investors. 
+KES 3 billion 
+revenues and 40% 
+cost to income 
+ratio
+60% of our revenue 
+from non-trading 
+sources
+We will have 40
+new company 
+listings. 
+We will have 50
+diverse listed 
+funds and indices
+We will have 500
+agents across 
+every county in 
+Kenya.  
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 22 of 28  
+of Choice" indicates our commitment to a positive work culture, career development, and 
+competitive compensation, aligning with our focus on "People" as a core pillar of its mission. 
+6. Top 10 Most Loved Brand in Kenya: This goal reflects our ambition to enhance our brand appeal and 
+public perception. By becoming a "Top 10 Most Loved Brand," we aim to build trust, recognition, 
+and a strong reputation among the general public. This would require strategic marketing, 
+community engagement, and maintaining high standards of integrity and transparency. 
+These BHAGs collectively reflect our commitment to growth, inclusivity, operational excellence, and brand 
+strength. They are ambitious targets that, if achieved, would position the NSE as a dynamic, inclusive, and 
+highly regarded financial institution in Kenya and across Africa. These goals align with our purpose of 
+"Inspiring Africa’s Transformation" and vision to be the "preferred value creation partner." 
+3.2.2. Strategic Objectives 
+Our strategic objectives are derived from the BHAGs and the current state assessment. The strategic 
+objectives we have chosen are aimed at ensuring that we focus on what truly matters. We have chosen to 
+make the ‘tip of our spear’ the revitalisation of markets, this is a commitment that for the next five years 
+we will focus on driving growth of the participation of local retail investors in our exchange. We believe 
+that this tip of the spear will inspire the development of investment products, programs and solutions that 
+best serve our investors by providing a diverse variety of investment opportunities while offering 
+businesses and the government an avenue where they can raise capital for investment and growth. The 
+diagram below outlines an overall view of our strategy.  
+ 
+ 
+We will invest differentially in attracting local retail investors into our markets. We will revitalize the markets by 
+developing products that are suitable for the supply side of the market to meet the different investment 
+requirements of the demand side investors. We will offer the investors awareness, education, access and returns 
+to make the exchange the preferred investment option for Kenyans. To support this, we will collaborate with our 
+partners to ensure market integrity and transparency through regulatory compliance. We will also implement a 
+DMA supported by market intermediaries and agency network to ensure that we reach all prospective investors 
+in the country. We will build beneficial partnerships to increase the reach of our services.  
+Figure 7: The tip of our strategic spear is the local retail investor 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 23 of 28  
+3.2.2.1. 
+Strategic Objective 1: Revitalize markets. 
+This strategic objective focuses on revitalizing the markets by strengthening our ‘go-to-market’ approach; 
+implementing channels that drive accessibility and focusing on branding, marketing, and communication. 
+Figure 8 below gives an overview of our approach to this strategic objective.  
+ 
+Figure 8: Key drivers revitalising markets strategic objectives.  
+Under this objective we aim to enlist at least 9 million local retail investors through DMA supported by mobile 
+trading apps by market intermediaries and NSE Super-App which will be a one stop shop for all matters investing 
+in the NSE. The two will be supplemented by an agency network of at least 500 agents across the country who 
+will support market intermediaries and the NSE to onboard retail investors across the country. We will also invest 
+in providing business development services to SMEs, corporates and both national and county governments. To 
+this end, we will revitalise NSE Ibuka, NSE Connect and NSE EmpowerHer solutions.  
+We will rebrand the NSE to showcase our commitment to reaching the retail investor. This will include education 
+and awareness campaigns backed by a robust branding, marketing and communications function within the NSE. 
+We will also invest differentially in public and investor relations.  
+Our goals under this strategic objective include:  
+Goal 1: Invigorate the retail market – Achieve 9M active retail investors by 2029: we will focus on attracting at 
+least 9 million active retail investors by 2029 by providing easy access to the NSE. We will deploy our business 
+development agents across all counties in the country and support the implementation of DMA in line with the 
+NSE DMA guidelines approved by CMA in 2019 backed by robust trading platforms. In addition, we will 
+collaborate with partners to introduce capital markets products that appeal to the different trading personas 
+identified during our current assessment to ensure that the different investment needs of investors are met.  
+Goal 2: Build a highly recognisable and valuable NSE brand – measure NPS/ brand recognition and become 
+Top 10 Most Loved Brands in Kenya by 2029 -we will focus on building a strong brand by defining and fulfilling 
+our brand promise, marketing aggressively to our target markets and communicating succinctly to our 
+stakeholders. We aim to demystify our brand and make it accessible and available to our customers and 
+stakeholders.  
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 24 of 28  
+Goal 3: Develop and implement solutions, products and programs that meet the needs of the market – Value 
+Delivered by each according to this strategy – we will focus on developing and successfully deploying products, 
+solutions and programs that meet the needs of investors, businesses and government. This will ensure have a 
+wide range of investment options and that our issuers have simplified yet effective solutions to meet their capital 
+and funding needs.  
+3.2.2.2. 
+Strategic Objective 2: Optimize Organisational Effectiveness  
+To achieve strategic objective 1, we will need to optimize our organisational effectiveness. This will strategic 
+objective focuses on talent, processes, and structure. Figure 8 below outlines this objective.  
+ 
+Figure 9: Optimise organisational effectiveness key pillars 
+We will transform the NSE into a high-performing organisation by attracting, developing, and retaining talent. 
+We will support our talent with the necessary processes and technology backed by the appropriate corporate 
+and organisational structure for efficient and effective governance.  
+The goals under this strategic objective include:  
+Goal 1: Improve Employee Engagement – achieve and engagement score of 90% and Top 20 Employer of 
+Choice in Kenya by 2029. This goal encourages us to drive staff engagement through supporting career growth 
+and development, ensuring access to the right tools to serve customers and cascading this strategy to drive unity 
+of purpose across the organisation. Additionally, we will restructure the NSE to ensure that governance and 
+leadership provide the necessary oversight and support for staff members.  
+Goal 2: Ensure that talent is fit for purpose – Ensure that at least 95% of staff score between 3-4 (2.5% achieve 
+5) – we aim to support our talent to become high performing teams. We will cascade and support our staff to 
+implement the strategy. As a high performing we will reward high performers disproportionately and offer them 
+opportunities to grow their careers. Our performance management framework aims to continually improve the 
+overall outcomes at the NSE on a year-to- year basis.  
+Goal 3: Optimize organisational effectiveness – Ensure that once we re-engineer our processes, procedures, and 
+policies, we will maximize adherence to those new policies to drive efficiency and effectiveness. 
+Goal 4: Implement appropriate technology to support operational effectiveness - measured as a reduction of the 
+total cost of ownership of technology.  
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 25 of 28  
+3.2.2.3. 
+Strategic Objective 3: Harness Technology 
+Technological advancement offers the NSE an opportunity to reduce the cost of operation while improving 
+efficiency. To support the objective of revitalizing the market, the NSE will invest in designing and 
+implementing a direct-to-market access (DMA) solution in line with the NSE DMA guidelines approved by 
+CMA in 2019, which will improve access of both institutional and retail investors to the exchange. The NSE 
+will partner with fintechs and technology firms to extend the reach of the DMA and offer application 
+programming interface (APIs) to data resellers. These data resellers will offer the investors and other market 
+participants tools to analyse data and improve decision-making.  
+Goal 1: Reduce the cost of technology – Achieve 22% percentage cost to total revenues. To achieve this 
+goal, we will have to implement a unified product agnostic platform. We will seek to identify a solution 
+partner rather than a technology partner to offer the NSE a ‘software-as-a-service’ (SaaS) solution. 
+Goal 2: Establish NSE Tech and Innovation Hub - We will invest in in-house capacity through the NSE 
+Tech and Innovation Lab, to develop technological solutions for the NSE and other exchanges as well as 
+market intermediaries. We aim to repurpose the technological function within NSE to a profit-centre by 
+investing in our capacity to develop and deploy technologies that can support capital markets across Africa.  
+Goal 3: Adopt SaaS by onboarding solution providers rather than technology providers – this approach will 
+ensure that we optimize the balanced between capital and operational expenditure. The target for this goal 
+is to ensure that all our technology services are consumed as SaaS solutions by 2027.  
+The strategic objectives above have been further developed into a corporate balanced scorecard that will 
+be used in our performance management framework.  
+3.2.3. Our Corporate Scorecard 
+To monitor the implementation of this strategy we will use the balanced scorecard framework. The 
+framework helps us to balance the outcomes, and the value drivers required to grow the NSE.  
+The framework will also support the cascading and alignment of the strategy throughout the organisation 
+and will be supported by a performance management framework that outlines performance review cycles 
+and drives visibility across the organisation on what we need to do at each level to achieve our strategy.  
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 26 of 28  
+4. Implementation Considerations & Plan 
+To manage the implementation of this strategy, a corporate balanced scorecard has been developed. The 
+balanced scorecard expresses the strategy in four perspectives: Financial, Customer, Internal Processes and 
+Learning and Growth perspectives. These perspectives form a joined-up strategy map.  
+The corporate balanced scorecard will be broken down into departmental scorecards. Within each department, 
+staff members will receive their individual scorecards that will be used to monitor their performance throughout 
+the strategic process. To keep the strategy relevant, it is important that the strategy is reviewed annually.  The 
+strategy review ensures that we can course correct to achieve our stated five-year objectives.  
+1.2. 
+Performance Management & Strategy Monitoring 
+Performance management at both the corporate and individual levels will be critical to the success of this 
+strategic plan. The figure below shows the performance cycle we will adopt to ensure that we continually monitor 
+our progress towards our strategic objectives. The performance management process  
+ 
+ 
+Figure 10: Performance Management & Strategy Monitoring Cycle  
+ 
+1.3. 
+Critical Success Factors & Risks 
+For this strategy to be implemented successfully the following key critical success factors considered.  
+1. Development and acquisition of expertise.  
+2. Investment in tools and resources for employees 
+3. Strengthening engagement with partners 
+4. Knowledge and innovation processes 
+5. Partnerships and collaboration 
+6. Revitalisation of Brands and marketing 
+ 
+ 
+Finalise/ Review 
+Strategy & 
+Corporate 
+Scorecard
+Cascade 
+strategy to 
+departmental 
+and individual 
+levels
+Semi-Annual 
+Evaluation of 
+performance at 
+corporate and 
+individual levels
+Annual Review 
+of Strategy and 
+Individual 
+Performance
+Employee 
+Recognition & 
+Performance 
+Feedback
+Update 
+Corporate 
+Strategy/ Review 
+KPIs and 
+Timelines
+Performance 
+Management & 
+Strategy Monitoring 
+Cycle 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 27 of 28  
+The table below describes each of these factors and risks to be considered for each of the factors.  
+ 
+Critical Success 
+Factor 
+Importance 
+Risks  
+Impact 
+Enhance 
+expertise in our 
+areas of focus 
+A key differentiator across the 
+organisation is expertise in our 
+domains. We will need to further 
+deepen our expertise in capital markets 
+and related technology to continue 
+driving innovation.  
+1. 
+Inability to differentiate on our chosen value 
+propositions to different customer segments and 
+partners.  
+2. 
+Poor service delivery that could damage our 
+brand and positioning in the sector.  
+3. 
+Loss of the advantage of being the oldest licensed 
+exchange in the country.  
+4. 
+Inability to engage with the private sector.  
+5. 
+Poor execution of the commercialisation of our 
+consulting services.  
+High 
+Investment in 
+tools and 
+resources for staff 
+Staff members who are poorly 
+equipped become frustrated and 
+disengaged and this leads to a drop in 
+productivity and inability to offer 
+discretionary effort.  
+1. 
+Loss of talent due to frustration. 
+2. 
+Inability to harness and store knowledge in the 
+organisation.  
+3. 
+Poor service delivery to our clients and partners.  
+High 
+Strengthening 
+engagement with 
+partners  
+Partners improve our chances of being 
+impactful. A deliberate plan of 
+engagement with defined areas of 
+collaboration are important  
+1. 
+Loss of partnership and a place at the table to 
+develop programs/ solutions and implement with 
+impact.  
+2. 
+Unproductive partnerships that are poorly 
+monitored could lead to loss of time and 
+resources.  
+High 
+Knowledge and 
+innovation 
+processes 
+NSE has over the years gained a lot of 
+knowledge which is not centralised. 
+This reduces innovation, learning and 
+growth in the organisation.  
+1. 
+Failure to manage the knowledge reduces the 
+ability to scale and replicate success.  
+2. 
+Lack of a deliberate innovation process could 
+lead to missed opportunities for growth and 
+diversification.  
+3. 
+Attrition of talent would also mean loss of 
+knowledge if a system does not exist to capture, 
+synthesize, and use the knowledge.   
+Medium 
+Branding and 
+marketing 
+Branding is the voice of the 
+organisation to the sector and target 
+economies. A well branded NSE will 
+attracts funders and partners and 
+ensures we are invited to the table. We 
+therefore need to define our niche, 
+breakdown our solutions and offer 
+products, programs and solutions that 
+are accessible cost effective & efficient.   
+1. Poor branding creates confusion both internally and 
+externally. It makes it difficult to articulate what the 
+NSE is good at and therefore the organisation cannot 
+attract the right partners, investors and issuers  
+2. Without proper branding the organisation will be 
+overlooked by local retail investors as a viable 
+option for their investments. Local businesses and 
+the government may also not engage the NSE as a 
+source of much-needed capital.   
+Medium 
+ 
+With these considerations in mind, we have developed a high-level implementation plan that will be refined 
+during the strategy cascading process.  
+ 
+ 
+
+Confidential – NSE Strategic Plan 2025 – 2029 
+ 
+Page 28 of 28  
+5. Relevant Internal NSE Documents 
+5.1. 
+NSE Corporate Balanced Scorecard 
+5.2. 
+NSE Financial Projections 
+5.3. 
+NSE Strategy Implementation Plan 
+

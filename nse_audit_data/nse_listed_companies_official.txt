@@ -1,0 +1,44 @@
+# Official NSE Listed Companies
+# Source: https://www.nse.co.ke/listed-companies/
+# Total: 40 companies
+
+AKR	Akira Petroleum PLC
+ARM	Arm Cement Limited
+AVDH	Avadholdings Limited
+BAMB	Bamburi Cement Limited
+BARC	Absa Bank Kenya PLC
+BAT	British American Tobacco Kenya PLC
+BRIT	British American Tobacco Kenya PLC
+CARB	Carbacid Investments Limited
+CFC	CFC Stanbic Holdings Limited
+CIMG	CIC Insurance Group Limited
+COOP	Co-operative Bank of Kenya Limited
+DTK	Diamond Trust Bank Kenya Limited
+EAAB	East African Portland Cement Company PLC
+EABL	East African Breweries Limited
+EQTY	Equity Group Holdings PLC
+GEM	Gemini Insurance Company Limited
+HOME	Home Afrika Limited
+I&M	I&M Group PLC
+JHL	Jubilee Holdings Limited
+JUB	Jubilee Holdings Limited
+KCB	KCB Group PLC
+KCC	Kenya Cooperative Creameries Limited
+KPLC	Kenya Power and Lighting Company PLC
+KURV	Kurwitu Investments Limited
+NCBA	NCBA Group PLC
+NGHC	National Horticultural Company Limited
+OLIM	Olympia Capital Holdings Limited
+OTL	Olympia Capital Holdings Limited
+SCBK	Standard Chartered Bank Kenya Limited
+SCOM	Safaricom PLC
+SCON	Simba Corporation Limited
+SPNB	Spinnaker General Insurance Limited
+STAN	Stanbic Holdings Limited
+SURF	Surfline Communications Limited
+TOTL	TotalEnergies Kenya PLC
+TPWR	Tinga Power Limited
+UGD	Uganda Baati Limited
+VITA	Vitafoam Kenya Limited
+WSM	Weston Hotels Limited
+WTS	Watamu Industries Limited
