@@ -2,6 +2,7 @@
 ADVANCED GOVERNANCE EXTRACTOR - LEVEL 2 & 3
 Extracts VALUES, not keywords. Citation-backed assertions.
 HFT-level accuracy: No hallucinations, page-tracked, ratio-calculated.
+Uses spaCy NER for accurate name extraction.
 """
 
 import re
@@ -12,6 +13,15 @@ from pathlib import Path
 import fitz  # PyMuPDF
 from dateutil import parser as date_parser
 from datetime import datetime
+import spacy
+
+# Load spaCy NER model once at module level
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    print("⚠️  WARNING: spaCy model 'en_core_web_sm' not found.")
+    print("   Run: python -m spacy download en_core_web_sm")
+    nlp = None
 
 @dataclass
 class ExtractionResult:
@@ -272,13 +282,19 @@ def extract_section_45(text: str, pdf_path: str, current_year: int = None) -> Li
     # Pattern 1: "appointed in YYYY" or "appointed on DD Month YYYY"
     pattern_appointment = r"(?:appointed|joined\s+the\s+board|became\s+a\s+director)\s+(?:in|on)\s+(\d{4}|\d{1,2}\s+\w+\s+\d{4})"
     
-    # Pattern 2: "has served for X years" 
+    # Pattern 2: "Appointment March 21, 2014" — structured profile field (NEW)
+    pattern_appointment_structured = r"Appointment\s+([A-Za-z]+ \d{1,2},\s+\d{4})"
+    
+    # Pattern 3: "appointed a Board Director of the NSE on March 26, 2015" (NEW)
+    pattern_appointment_narrative = r"appointed a? Board Director.*?on ([A-Za-z]+ \d{1,2},\s+\d{4})"
+    
+    # Pattern 4: "has served for X years" 
     pattern_tenure = r"(?:has\s+served|serving|tenure\s+of)\s+(?:for\s+)?(\d+)\s+years?"
     
-    # Pattern 3: Table with name and year: "John Doe ... 2015"
+    # Pattern 5: Table with name and year: "John Doe ... 2015"
     pattern_table = r"([A-Z][a-z]+\s+[A-Z][a-z]+).*?(\d{4})"
     
-    # Find all appointments
+    # Find all appointments - Pattern 1 (original)
     for match in re.finditer(pattern_appointment, text, re.IGNORECASE):
         try:
             year_str = match.group(1)
@@ -309,6 +325,68 @@ def extract_section_45(text: str, pdf_path: str, current_year: int = None) -> Li
                     page_number=find_page_for_text(pdf_path, match.group(0)),
                     confidence_score=0.85,
                     extraction_method="appointment_year_extraction"
+                )
+                results.append(result)
+                
+        except (ValueError, OverflowError):
+            continue
+    
+    # Find all appointments - Pattern 2: Structured "Appointment March 21, 2014"
+    for match in re.finditer(pattern_appointment_structured, text, re.IGNORECASE):
+        try:
+            date_str = match.group(1)
+            parsed_date = date_parser.parse(date_str)
+            appointment_year = parsed_date.year
+            tenure = current_year - appointment_year
+            requires_approval = tenure > 9
+            
+            if tenure >= 5:
+                result = ExtractionResult(
+                    section="S.45",
+                    cg_code_requirement=f"Directors serving >9 years require shareholder approval (current year: {current_year})",
+                    extracted_value={
+                        "appointment_date": date_str,
+                        "appointment_year": appointment_year,
+                        "tenure_years": tenure,
+                        "requires_shareholder_approval": requires_approval,
+                        "director_name": extract_nearby_name(text, match.start())
+                    },
+                    passes_compliance=not requires_approval,
+                    evidence_quote=match.group(0).strip(),
+                    page_number=find_page_for_text(pdf_path, match.group(0)),
+                    confidence_score=0.90,
+                    extraction_method="structured_appointment_field"
+                )
+                results.append(result)
+                
+        except (ValueError, OverflowError):
+            continue
+    
+    # Find all appointments - Pattern 3: Narrative "appointed a Board Director...on March 26, 2015"
+    for match in re.finditer(pattern_appointment_narrative, text, re.IGNORECASE):
+        try:
+            date_str = match.group(1)
+            parsed_date = date_parser.parse(date_str)
+            appointment_year = parsed_date.year
+            tenure = current_year - appointment_year
+            requires_approval = tenure > 9
+            
+            if tenure >= 5:
+                result = ExtractionResult(
+                    section="S.45",
+                    cg_code_requirement=f"Directors serving >9 years require shareholder approval (current year: {current_year})",
+                    extracted_value={
+                        "appointment_date": date_str,
+                        "appointment_year": appointment_year,
+                        "tenure_years": tenure,
+                        "requires_shareholder_approval": requires_approval,
+                        "director_name": extract_nearby_name(text, match.start())
+                    },
+                    passes_compliance=not requires_approval,
+                    evidence_quote=match.group(0).strip(),
+                    page_number=find_page_for_text(pdf_path, match.group(0)),
+                    confidence_score=0.88,
+                    extraction_method="narrative_appointment_extraction"
                 )
                 results.append(result)
                 
@@ -356,13 +434,33 @@ def extract_section_48(text: str, pdf_path: str) -> List[ExtractionResult]:
     CG Code S.48: Related party transactions must be disclosed with values and approval.
     Level 2: Extract transaction values, counterparties, and approval status.
     Level 3: Cite exact note number, page, and quote.
+    
+    CRITICAL FIX: Strict localization bounding box to prevent hallucinations.
+    Only searches ~5000 chars (~2 pages) after the Related Party header.
     """
     results = []
     
-    # Look for "Note XX" sections about related parties
-    note_pattern = r"(?:note|note\s+no\.?|note\s+#?)\s*(\d+)[.:]?\s*(related\s+party|related\s+parties|rpt|rpts)"
+    # S.48 Localization Bounding Box - EXACT IMPLEMENTATION
+    # CRITICAL: Must find the SECTION HEADER, not incidental mentions like "related party balances"
+    # Priority order: 1) "RELATED PARTY TRANSACTIONS" header, 2) Note XX pattern, 3) Fallback
     
-    # Transaction patterns
+    s48_anchor_pattern = r"(?i)related\s+party\s+transactions\s*[\n:]|(?:note|note\s+no\.?)\s*(\d+)[.:]?\s*related\s+part(?:y|ies)"
+    anchor_match = re.search(s48_anchor_pattern, text)
+    
+    if anchor_match:
+        # Anchor found. Create a 5,000 character bounding box (~2 pages) AFTER the header
+        start_idx = anchor_match.end()
+        end_idx = min(len(text), start_idx + 5000)
+        s48_search_zone = text[start_idx:end_idx]
+        
+        # Map the exact page number of the anchor for citation
+        s48_page = find_page_for_text(pdf_path, anchor_match.group(0))
+    else:
+        # No related party section found. Return safe defaults.
+        s48_search_zone = ""
+        s48_page = None
+    
+    # Transaction patterns - ONLY run on s48_search_zone
     transaction_patterns = [
         # Pattern 1: "Company X: KES Y million"
         r"([A-Za-z\s&]+(?:limited|ltd|plc|corporation|company|holdings))?[:\s-]+\s*(kes?|ksh|shilling|sh)\s*([\d,\.]+)\s*(million|billion|thousand)?",
@@ -377,26 +475,21 @@ def extract_section_48(text: str, pdf_path: str) -> List[ExtractionResult]:
         r"(?:approved\s+by\s+the\s+board|board\s+approval|shareholder\s+approval|rpt\s+committee\s+approval)",
     ]
     
-    # Find the related party note section
-    note_matches = list(re.finditer(note_pattern, text, re.IGNORECASE))
+    # Look for "Note XX" within the search zone
+    note_pattern = r"(?:note|note\s+no\.?|note\s+#?)\s*(\d+)[.:]?\s*(related\s+party|related\s+parties|rpt|rpts)"
+    note_matches = list(re.finditer(note_pattern, s48_search_zone, re.IGNORECASE))
     
     if not note_matches:
-        # Fallback: search entire text for related party transactions
-        search_text = text
         note_number = "Unknown"
     else:
-        # Focus on the first related party note
         note_match = note_matches[0]
         note_number = note_match.group(1)
-        start_pos = note_match.start()
-        # Get ~2000 chars after the note header
-        search_text = text[start_pos:start_pos + 3000]
     
-    # Extract transactions
+    # Extract transactions - ONLY from s48_search_zone
     transactions_found = []
     
     for pattern in transaction_patterns[:3]:  # Skip approval pattern for now
-        for match in re.finditer(pattern, search_text, re.IGNORECASE):
+        for match in re.finditer(pattern, s48_search_zone, re.IGNORECASE):
             try:
                 groups = match.groups()
                 
@@ -417,7 +510,9 @@ def extract_section_48(text: str, pdf_path: str) -> List[ExtractionResult]:
                         if g:
                             unit = g.lower()
                 
-                if amount_str:
+                # CRITICAL FIX: Reject amounts without identifiable counterparty
+                # A transaction without a named counterparty is NOT an S.48 finding
+                if amount_str and counterparty and len(counterparty.strip()) > 3:
                     # Normalize amount
                     amount_num = float(amount_str.replace(',', ''))
                     if unit == 'million':
@@ -428,7 +523,7 @@ def extract_section_48(text: str, pdf_path: str) -> List[ExtractionResult]:
                         amount_num *= 1_000
                     
                     transactions_found.append({
-                        'counterparty': counterparty or 'Not specified',
+                        'counterparty': counterparty.strip(),
                         'amount': amount_num,
                         'amount_formatted': f"KES {amount_num:,.0f}",
                         'unit': unit,
@@ -438,9 +533,9 @@ def extract_section_48(text: str, pdf_path: str) -> List[ExtractionResult]:
             except (ValueError, AttributeError):
                 continue
     
-    # Check for board approval
+    # Check for board approval - ONLY in s48_search_zone
     approval_found = False
-    for match in re.finditer(transaction_patterns[3], search_text, re.IGNORECASE):
+    for match in re.finditer(transaction_patterns[3], s48_search_zone, re.IGNORECASE):
         approval_found = True
         break
     
@@ -462,9 +557,9 @@ def extract_section_48(text: str, pdf_path: str) -> List[ExtractionResult]:
             passes_compliance=approval_found and len(transactions_found) > 0,
             evidence_quote=f"Found {len(transactions_found)} transactions in Note {note_number}. " + 
                           f"Approval mentioned: {'Yes' if approval_found else 'No'}",
-            page_number=find_page_for_text(pdf_path, search_text[:500]),
+            page_number=s48_page,
             confidence_score=0.88 if approval_found else 0.65,
-            extraction_method="related_party_note_extraction"
+            extraction_method="related_party_note_extraction_bounded"
         )
         results.append(result)
     else:
@@ -480,9 +575,9 @@ def extract_section_48(text: str, pdf_path: str) -> List[ExtractionResult]:
             },
             passes_compliance=None,  # Unknown - might genuinely have no RPTs
             evidence_quote="No related party transaction note or disclosures found",
-            page_number=None,
+            page_number=s48_page,
             confidence_score=0.50,
-            extraction_method="no_rpt_found"
+            extraction_method="no_rpt_found_bounded"
         )
         results.append(result)
     
@@ -525,21 +620,29 @@ def find_page_for_text(pdf_path: str, target_text: str, context_chars: int = 100
         return None
 
 
-def extract_nearby_name(text: str, position: int, window: int = 100) -> Optional[str]:
-    """Extract a person's name near the given position."""
-    # Look backwards up to 100 chars
+def extract_nearby_name(text: str, position: int, window: int = 300) -> Optional[str]:
+    """
+    Extract a person's name near the given position using spaCy NER.
+    Level 3 accuracy: Uses trained NER instead of fragile regex.
+    """
+    if nlp is None:
+        # Fallback to basic regex if spaCy not available
+        start = max(0, position - window)
+        snippet = text[start:position + 100]
+        name_pattern = r'([A-Z][a-z]+\s+[A-Z][a-z]+)'
+        matches = list(re.finditer(name_pattern, snippet))
+        return matches[-1].group(1) if matches else None
+    
+    # Use spaCy NER for accurate name extraction
     start = max(0, position - window)
-    snippet = text[start:position + 20]
+    end = min(len(text), position + 100)
+    snippet = text[start:end]
     
-    # Pattern for capitalized names
-    name_pattern = r'([A-Z][a-z]+\s+[A-Z][a-z]+)'
-    matches = list(re.finditer(name_pattern, snippet))
+    doc = nlp(snippet)
+    persons = [ent.text for ent in doc.ents if ent.label_ == "PERSON"]
     
-    if matches:
-        # Return the last name found before the position
-        return matches[-1].group(1)
-    
-    return None
+    # Return the last person mentioned before the appointment date
+    return persons[-1] if persons else None
 
 
 def deduplicate_results(results: List[ExtractionResult], key_func) -> List[ExtractionResult]:
