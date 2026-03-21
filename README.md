@@ -50,5 +50,30 @@ The next stage of this audit (the Kenyan Sprint) must account for these structur
 10. **Regulatory Sales Logic**: To sell to the CMA, transition from "AUC Scores" to "Case Recall"—demonstrating how many millions in the *Imperial Bank* or *Chase Bank* cases could have been saved by flagging language 12 months earlier.
 
 ---
+
+## 🎖️ The NSE Priority-A Audit List (Top 10)
+I have identified these 10 items as the "Absolute Bedrock" for the Kenyan market sprint. Skip these, and any signal found will be an artifact:
+
+1.  **PDF "Dark Matter" (Layout vs OCR)**: Detecting scanned-image PDFs vs text-encoded ones. OCR error noise mimics "deception complexity."
+2.  **The Safaricom Outlier**: Normalizing for Safaricom's massive market-cap dominance to prevent it from skewing the market mean.
+3.  **Governance Independence (Section 41)**: Automated extraction of "Independent Director" counts to cross-check against the "CG Code."
+4.  **Tenure Erosion (Section 45)**: Identifying directors with 9+ years tenure who are listed as "Independent" but are structurally compromised.
+5.  **Related Party "Tunneling" (Section 48)**: High-resolution analysis of the "Related Party Disclosures" note—the primary fraud mechanism in family-controlled NSE firms.
+6.  **British/Kenyan Locale Normalization**: Updating dictionaries for British spelling (`-ise` vs `-ize`) and local idioms (`Sacco`, `KRA Disputes`).
+7.  **"Late Filing" Label Correction**: Manually separating administrative delay fines from core accounting fraud in the CMA ground truth.
+8.  **Section Identification (MD&A Equivalent)**: Regex logic to consistently find the management narrative across 66 non-standardized reports.
+9.  **The "Silence of the Regulator"**: Implementing a "False Negative" filter for companies that are high-risk (linguistically) but un-fined due to regulatory lag.
+10. **Signature Authenticity Proxy**: Auditing the scan quality and consistency of CEO/Chairman signatures as a proxy for board engagement.
+
+---
+
+## 💤 Parked Categories (Skip for Phase 1)
+To maximize speed, we are skipping these **Moderate/Low Priority** areas for now:
+*   **Scientific Rigor (Cat 9)**: No "5-Sigma" or complex TDA shuffles until the basic linear model is stable.
+*   **EAC Regional Expansion (Cat 10)**: Uganda/Tanzania exchanges are parked until the Kenya baseline is validated.
+*   **Social Media/Sentiment Bridging (Cat 10)**: Focus solely on official filings; third-party "noise" is too high for N=66.
+*   **Economic Cycle Modeling (Cat 6)**: Election/Global debt jitter analysis is deferred.
+
+---
 **Status**: ACTIVE SPRINT (March 2026)
 **Contact**: Antigravity-Audit Agent
