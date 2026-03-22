@@ -1,0 +1,59 @@
+{
+  "scraped_at": "2026-03-21T10:41:34.859243",
+  "parameters": {
+    "target_companies": 28,
+    "max_years_per_company": 2
+  },
+  "results": {
+    "companies_processed": 0,
+    "companies_with_downloads": 0,
+    "total_downloaded": 0,
+    "by_sector": {
+      "Telecommunications": {
+        "companies": 0,
+        "files": 0
+      },
+      "Banking": {
+        "companies": 0,
+        "files": 0
+      },
+      "Insurance": {
+        "companies": 0,
+        "files": 0
+      },
+      "Agriculture": {
+        "companies": 0,
+        "files": 0
+      },
+      "Manufacturing": {
+        "companies": 0,
+        "files": 0
+      },
+      "Energy": {
+        "companies": 0,
+        "files": 0
+      },
+      "Utilities": {
+        "companies": 0,
+        "files": 0
+      },
+      "Investment": {
+        "companies": 0,
+        "files": 0
+      },
+      "Real Estate": {
+        "companies": 0,
+        "files": 0
+      },
+      "Media": {
+        "companies": 0,
+        "files": 0
+      },
+      "Transport": {
+        "companies": 0,
+        "files": 0
+      }
+    },
+    "files": []
+  }
+}

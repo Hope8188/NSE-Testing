@@ -1,0 +1,178 @@
+GUIDELINES AND SPECIFICATIONS ON BROKER BACK OFFICE
+(BBO) FOR NAIROBI
+SECURITIES EXCHANGE TRADING PARTCIPANTS
+
+DOCUMENT CONTROL
+REVISION HISTORY
+Document Id Version Summary of Revisions Date Issued
+NSE/BB0 001 1.0 Draft BBO Guidelines 11/03/2015
+2
+
+1 Contents
+1.1 TITLE .............................................................................................................................................. 4
+1.2 APPLICATION ................................................................................................................................. 4
+1.3 DEFINITIONS .................................................................................................................................. 4
+1.4 STATEMENT OF POLICY ................................................................................................................. 5
+1.4.1 PURPOSE ............................................................................................................................... 5
+1.4.2 SCOPE .................................................................................................................................... 5
+1.4.3 RESPONSIBILITY ..................................................................................................................... 5
+1.5 SPECIFIC REQUIREMENTS ............................................................................................................. 6
+1.5.1 CLIENT MANAGEMENT ......................................................................................................... 6
+1.6 ORDER MANAGEMENT ................................................................................................................. 7
+1.7 CDS RELATED FUNCTIONS ............................................................................................................. 8
+1.8 DEALING FUNCTIONS .................................................................................................................... 8
+1.9 INTERNET & REMOTE TRADING .................................................................................................... 8
+1.10 ACCOUNTING FUNCTIONS ............................................................................................................ 8
+1.11 IPO FUNCTIONS ............................................................................................................................. 9
+1.12 RISK, SURVEILLANCE AND COMPLIANCE REQUIREMENTS ........................................................... 9
+1.13 REPORTS ...................................................................................................................................... 10
+1.14 USER MANAGEMENT AND WORKFLOWS ................................................................................... 10
+1.0 GENERAL ..................................................................................................................................... 11
+1.1 SECURITY ..................................................................................................................................... 11
+1.2 INTEGRATION .............................................................................................................................. 12
+1.3 DATA MIGRATION ....................................................................................................................... 12
+1.4 INFRASTRUCTURE ....................................................................................................................... 12
+1.5 OTHER FEATURES ........................................................................................................................ 12
+3
+
+1.1 TITLE Guidelines on Broker Back Office (BBO) for Nairobi Securities Exchange Trading Participants
+1.2 APPLICATION These guidelines apply to all Trading Participants of the Nairobi Securities Exchange.
+1.3 DEFINITIONS The terms used in these guidelines shall be taken to have the meaning as assigned to them in the glossary.
+4
+
+1.4 STATEMENT OF POLICY
+1.4.1 PURPOSE These guidelines outline the minimum Broker Back Office requirements that Trading Participants will need to ensure comprehensiveness/ adequacy of their broker back office system in providing services to their clients as they mitigate the associated risks.
+1.4.2 SCOPE These guidelines set the minimum requirements for a Broker Back Office System for existing and new Trading Participants.
+1.4.3 RESPONSIBILITY The responsibility for Broker Back Office ultimately rests with the board of directors and the Senior
+Management of the Trading Participant. The Trading Participants have to be able to show that they
+are guided by these guidelines.
+5
+
+SPECIFIC REQUIREMENTS
+1.5 CLIENT MANAGEMENT
+1.5.1 The system (Broker Back Office) should have all the necessary fields for static data that are required for identification and future processing. It must comply with Know Your Customer (KYC) principles and should be integrated with the CDS system client data.
+1.5.2 Amendment of client details should be controlled and the system must be able to support this process.
+1.5.3 The system should have the capability to set up the different service charge type for different clients. These should be parameterized fields for interest rate and any other client related charges.
+1.5.4 The system should have the ability to enquire and view account statements on line through a secure connection.
+1.5.5 The system should have the ability to create and maintain additional fields in the future. These may be fields that are required for future financial reporting or data analysis.
+1.5.6 The system should have other functionalities that will improve the management of client information so as to facilitate a secure and efficient market.
+1.5.7 The system should have the capability to receive funds from multiple sources.  In the case of cheques, the value should indicate after a configurable cheque clearing timeframe.
+1.5.8 The System should have the capability to receive payment requests and process payments including correlation with existing orders.
+1.5.9 The system should allow for various clients' sales settlement mode i.e. direct credit to appointed bank a/c, cheques, or current account. There should be EOD reconciliation between the brokers and the Bank account.
+6
+
+1.6 ORDER MANAGEMENT
+1.6.1 The system should provide the capability for the broker to trade a vast array of financial instruments in real-time. These include equities and debt instruments or any other securities such as derivatives.
+1.6.2 The system should have a single order entry process from the order taking desk, trade matching and client account update without any manual intervention.
+1.6.3 Orders captured into the system should automatically affect the total client's position in the client's account.
+1.6.4 The system should have the ability to perform automatic reconciliation of trades executed by ATS against order capture.
+1.6.5 The system should have inbuilt authorization procedures for orders whose account balances are insufficient.
+1.6.6 The system should have the ability to connect to multiple trading systems by the use of the FIX protocol and additionally provide for Direct Market Access.
+1.6.7 The system should have the ability process in Real-time multi-currency transactions and provide straight-through-processing, end-to-end, from trade to settlement.
+1.6.8 The system should have provision for risk managers of the firm to exercise emergency
+powers, with suitable internal approval mechanisms — to disable some users, some clients,
+remove some orders etc. depending on the market situation.
+1.6.9 The system should allow agents to manage transactions of their clients through a direct, but
+limited access to the system. Views restricted to only those clients under that agent and
+transactions restricted to only those allowed for agents.
+1.6.10 The system should allow for configurable computation of brokerage commission and/or
+rebate and generate contract once the order confirmation info is received.
+1.6.11 The system should have the capability to automatically update contract information to
+client's ledger and allow viewing of the same on-line.
+1.6.12 The system should allow for manual key-in of contract details and amendment of selected
+contract details. An auto generated amendment/cancellation Letter will then be
+printed/emailed to show the reason of the amendment/cancellation.
+7
+
+1.7 CDS RELATED FUNCTIONS
+1.7.1 The system should allow brokers to send/receive share transfer messages to/from CDSC
+and update client's details and accounts accordingly.
+1.7.2 The system should allow broker to mark pledged securities and update client's account.
+1.7.3 The system should have the ability of handling different settlement periods for different
+markets (e.g. T+0, T+1, T+2...).
+1.7.4 The system should have the capability to define and recognize trading and settlement time
+and days for different markets.
+1.8 DEALING FUNCTIONS
+1.8.1 The system should support for dealing on the broker's own account in compliance with
+CMA regulations for dealing.
+1.8.2 The system should support for real-time portfolio valuation through price-feed and
+automatic trigger of stop-loss alerts.
+1.8.3 The system should provide the capability to apply Chinese wall between dealing and stock
+broking.
+1.9 INTERNET & REMOTE TRADING
+1.9.1 The system should have Internet trading capabilities that adhere to CMA Regulations of internet trading.
+1.9.2 The system should provide secure and reliable order entry mechanism for those investors who choose to use the internet.
+1.9.3 The system should provide the broker with flexibility to define and configure client trading limits as per client’s existing portfolio.
+1.10 ACCOUNTING FUNCTIONS
+1.10.1 The system should have a complete accounting module that allows GL interfacing with other existing accounting applications a firm may have.
+1.10.2 The system should allow for sub ledgers for clients to be user defined and should then be
+linked to control accounts.  All common accounting functionalities should be possible to be carried out using this module.
+8
+
+1.10.3 The system should have the capability to receive bank's notice on failed settlement i.e. returned cheque or insufficient Cash balance.
+1.10.4 The system should be able to enable credit control section to reverse the receipt (auto journal) and update client ledger on real time basis.
+1.10.5 The system should have the ability to download Bank statements to perform auto Bank reconciliation i.e. the auto matching cut payment and receipts to the Bank statements.
+1.11 IPO FUNCTIONS
+1.11.1 The system should provide an automated process for managing broker related IPO activities.
+1.11.2 The system should have the capability to download IPO returns from receiving banks and
+registrars to perform auto reconciliation i.e. the auto matching of payments and applications.
+1.11.3 The system should have the capability to process refunds and be able to perform auto reconciliation with the bank accounts.
+1.12 RISK, SURVEILLANCE AND COMPLIANCE REQUIREMENTS
+1.12.1 The system should have an inbuilt Support for stronger KYC, and scanning of all important identification documents.
+1.12.2 The system should be able to validate all buy orders against cash available and any trading
+limits granted, and to validate all sell orders against security available at CDSC including employee trading.
+1.12.3 The system should have the capability to classify clients depending on their level of activity (active, dormant etc.) and to raise alerts if suspicious transactions are put through.
+1.12.4 The system should have the capability to classify clients depending on their standing- Good standing, doubtful debt, bad debt etc.  and to grant graded privileges for these accounts.
+1.12.5 The system should minimize frauds through high security environment with maker-
+checker, approvals, audit trails and Role based permissions. This include notifying clients of major transactions in their accounts and making brokerage accounts transparent to clients — they can view their accounts, orders and holdings at any time over the internet.
+9
+
+1.13 REPORTS The system must provide the following reports besides the standard inbuilt reports.
+a) Liquidity position b) Financial status of the firm c) Revenues and expenses d) Client complaints and their current status e) Report on large transactions f) Agents, creditor and debtor analysis g) Order and trade analysis h) Branch/Agents performance reports i) Audit reports on; report of trades in the system in line with those in the exchange j) Ability to design new defined reports
+1.14 USER MANAGEMENT AND WORKFLOWS The system should provide for the following;
+a) Support for maker-checker for key entry into the system. b) Flexible approval workflow process with escalation support. c) Hierarchical   role   based   access   permission   for   various functionalities of the system. d) Ability to flag sensitive transactions and to highlight such transactions. e) Complete audit trail of all input, changes and deletes. f) Ability to automatically raise alerts on exceptional events. g) Ability to raise alerts for pre-defined events on appropriate dates
+10
+
+TECHNICAL REQUIREMENTS
+REQUIREMENT SPECIFICATIONS
+1.0 GENERAL
+1.0.1 User -friendly front-end interface that is customizable
+1.0.2 Interfacing capabilities with industry standard interfaces — API's and FIX
+1.0.3 Centralized repository for distributing each broker's database. This is to minimize inconsistencies across front and back-office operations.
+1.0.4 Graphical user interface suitable for the various business users to perform analysis
+1.0.5 Web client interface
+1.0.6 3 tier architecture (presentation tier controlling what users see, application tier where business rules reside and data tier containing customer, product and business data).
+1.1 SECURITY
+1.1.1 The system should have the capability to record track history of all system transactions/operations including information on the requester-the-approver of a transaction/operation, the time when transactions /operation are processed and transactions/operation content.
+1.1.2 Support a multilevel group security with various levels of defined permissions.
+1.1.3 Facility to define roles, access, permissions and departmental hierarchy i.e. Chinese walls.
+1.1.4 Secured sockets layer (SSL) security through the Internet for online and remote trading customer access.
+1.1.5 System must provide overall   security   policy to   ensure the authentication and authorization of all transactions from front office.
+1.1.6 Ability to manage the user's data access rights and the security measures required by various regulations.
+1.1.7 Multi-tier design ensures that users cannot directly access data
+1.1.8 Database Administrators perform data management tasks but cannot access data
+1.1.9 Internet/intranet user data encryption/decryption
+11
+
+1.2 INTEGRATION
+1.2.1 Allow Integration of Microsoft Outlook (or other mailing tool) for emails and attachments.
+1.2.2 Integrate to internal and external systems using pre-built interfaces and standard XML/SOAP web services APIs, ISO, XML and FIX.
+1.2.3 Documented web services based API for completing custom integration with other applications.
+1.2.4 The interface should be capable of adding, removing, updating and reporting for all functions in sections 1, 2, 3, 6, 7 and have the same security and audit mechanisms as the human interface inbuilt.
+1.3 DATA MIGRATION
+1.3.1 Enhanced data synchronization (online/offline) for full access to sales and customer service information.
+1.3.2 Seamless data migration routines --using easy to use online wizards
+1.3.3 Test validation process (3rd party, documentation, test results) & ability to define data validation.
+1.4 INFRASTRUCTURE
+1.4.1 Hardware, Network, Operating System and Database Management
+1.4.2 Light bandwidth consumption and maximum users load.
+1.4.3 Relational Database Management System.
+1.4.4 Scalable database for optimal performance and growth.
+1.4.5 Ability to support concurrency processing.
+1.4.6 Easy administration of the system.
+1.5 OTHER FEATURES
+1.5.1 Support for good integration speed and performance.
+1.5.2 24/7 operation with disaster recovery systems
+1.5.3 Capable of switching to other servers/systems when the primary/running server/system fails.
+1.5.4 Well and documented Backup/Restore Policy
+12

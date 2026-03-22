@@ -1,0 +1,18 @@
+Subject: Auditing NLP Fraud Detection Models for Methodological Artifacts
+
+We have identified three specific methodological confounds that produce false fraud signals in linguistic analysis of SEC filings:
+
+1. Temporal drift between filing eras
+2. Document coverage mismatch (Full 10-K vs. Item 7 Snippets)
+3. Preprocessing gaps (Winsorization and industry-year normalization)
+
+We demonstrated all three using a matched corpus of 329 firm-years (1998–2010), identifying that large apparent linguistic differences (p < 0.0001) were actually archaeological artifacts of the SEC's legacy data structure. 
+
+We have since built the "EDGAR Archaeology Engine" to normalize pre-2010 filings for fair, artifact-free comparison.
+
+If your compliance tools use linguistic signals from SEC filings, we can audit them for these artifacts. We have already documented the **"Bao Gap" (0.67 vs 0.72 AUC)**—proving that a 0.05 performance cushion in existing software is actually an archaeological artifact of legacy data. We provide a robust benchmark against this 0.6697 baseline.
+
+Available for a 15-minute call this week.
+
+[Name]
+[Contact Info]
