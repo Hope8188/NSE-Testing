@@ -1,0 +1,14 @@
+SACCO Governance Extraction Summary
+==================================================
+
+Company: Stima Sacco
+Reporting Year: 2023
+Compliance Score: 60.0/100
+
+Board: 9 total, 0 independent
+Compliance Gaps: 5
+  - Lack of explicit identification of independent directors on the Board.
+  - Failure to meet or disclose compliance with the SASRA minimum 1/3 independent director requirement for the Board.
+  - Lack of explicit statement regarding the independence of the Audit & Risk Committee members, particularly the chair, as per SASRA requirements for a majority of independent non-executive directors.
+  - Absence of a clearly defined Governance Committee.
+  - Chief Financial Officer (CFO) not explicitly identified.
