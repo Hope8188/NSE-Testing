@@ -9,6 +9,8 @@ import re
 import json
 import time
 import hashlib
+import urllib.request
+import urllib.error
 from pathlib import Path
 from datetime import datetime
 
@@ -17,8 +19,6 @@ try:
     import requests
     HAS_REQUESTS = True
 except ImportError:
-    import urllib.request
-    import urllib.error
     HAS_REQUESTS = False
 
 OUTPUT_DIR = Path("nse_audit_data/raw_pdfs")
