@@ -1,0 +1,14 @@
+# NSE Governance Extractor - Production Ready
+# Core dependencies (already installed)
+instructor>=1.0.0
+pydantic>=2.8.0
+networkx>=3.0
+cloudscraper>=1.2.71
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Optional - install when needed
+# docling  # Requires CPU-only torch first
+# chromadb  # For RAG semantic search
+# crawl4ai  # For advanced web crawling
+# google-generativeai  # For Gemini LLM
