@@ -1,0 +1,67 @@
+{
+  "company_name": "SASRA DT-SACCO Sector Aggregate",
+  "reporting_year": 2017,
+  "total_board_members": 0,
+  "board_members": [],
+  "audit_committee": {
+    "name": "Audit Committee",
+    "is_mandatory": true,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "credit_committee": {
+    "name": "Credit Committee",
+    "is_mandatory": true,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "supervisory_committee": {
+    "name": "Supervisory Committee",
+    "is_mandatory": true,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "governance_committee": {
+    "name": "Governance Committee",
+    "is_mandatory": false,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "independent_governance_audit_conducted": false,
+  "governance_auditor_name": null,
+  "governance_auditor_accredited": null,
+  "ceo_nonvoting_at_board": null,
+  "conflict_of_interest_register_maintained": false,
+  "related_party_loans_directors": null,
+  "related_party_loans_staff": null,
+  "related_party_loans_total_derived": null,
+  "related_party_disclosure_fragmented": true,
+  "compliance_score": 22.0,
+  "compliance_gaps": [
+    "The provided document is an aggregate SASRA Supervision Annual Report for the entire DT-SACCO sector, not a specific SACCO's annual report. Therefore, specific governance data for individual SACCOs cannot be extracted.",
+    "Details on individual board members (names, roles, election status, independence, attendance rates) are not available in this aggregate report.",
+    "The existence, composition (chairperson, member count, meeting frequency, independent majority) of specific SACCO committees (Audit, Credit, Supervisory, Governance) cannot be confirmed from this aggregate report.",
+    "The report does not explicitly mention whether an independent governance audit was conducted for any SACCO or the sector, nor does it name an accredited governance auditor.",
+    "The CEO's voting status at the board level is not mentioned in the report.",
+    "While 'insider lending reports' are mentioned (Page 83), there is no explicit confirmation of a 'conflict of interest register' being maintained by SACCOs.",
+    "Specific related party loan figures for directors and staff are not provided in the report."
+  ],
+  "confidence_level": "FLAGGED_FOR_REVIEW",
+  "evidence_pages": [
+    1,
+    83,
+    93
+  ]
+}

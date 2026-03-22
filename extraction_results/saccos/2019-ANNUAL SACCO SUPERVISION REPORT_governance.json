@@ -1,0 +1,77 @@
+{
+  "company_name": "SACCO Sector (Aggregate Data from SASRA Annual Report)",
+  "reporting_year": 2019,
+  "total_board_members": 1995,
+  "board_members": [],
+  "audit_committee": {
+    "name": "Audit Committee",
+    "is_mandatory": true,
+    "exists": true,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "credit_committee": {
+    "name": "Credit Committee",
+    "is_mandatory": true,
+    "exists": true,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "supervisory_committee": {
+    "name": "Supervisory Committee",
+    "is_mandatory": true,
+    "exists": true,
+    "chairperson": null,
+    "member_count": 3,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "governance_committee": {
+    "name": "Governance Committee",
+    "is_mandatory": false,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "independent_governance_audit_conducted": null,
+  "governance_auditor_name": null,
+  "governance_auditor_accredited": null,
+  "ceo_nonvoting_at_board": null,
+  "conflict_of_interest_register_maintained": null,
+  "related_party_loans_directors": null,
+  "related_party_loans_staff": null,
+  "related_party_loans_total_derived": null,
+  "related_party_disclosure_fragmented": true,
+  "compliance_score": 50.0,
+  "compliance_gaps": [
+    "The provided document is the SACCO Supervision Annual Report by SASRA, which provides aggregate data for the entire SACCO sector, not specific governance data for a single SACCO. Therefore, many fields requiring single-entity data cannot be fully populated.",
+    "No individual board member names, specific roles, attendance rates, or independence status are provided for any single SACCO.",
+    "While the report states Board members are 'non-executive' and 'elected' (page 60), it does not provide aggregate data on the percentage of independent directors per SASRA's definition (non-executive, no material relationship).",
+    "No aggregate data on chairperson, member count, meeting frequency, or independent majority for Audit and Credit Committees is provided.",
+    "No aggregate data on chairperson, meeting frequency, or independent majority for the Supervisory Committee is provided, beyond the general rule of three members.",
+    "The report does not confirm whether SACCOs, in aggregate, conduct annual independent governance audits by ICPSK-accredited auditors, as required by SASRA Guidance Note GG/2/2023 Section 11.2 (as per prompt context).",
+    "The report does not state whether the CEO is a non-voting member of the board for SACCOs.",
+    "The report does not explicitly confirm that SACCOs maintain a conflict of interest register, although 'insider lending' is mentioned as a risk to be reduced (page 74).",
+    "No specific figures for related party loans to directors or staff are provided in the aggregate report. The report discusses 'non-remitted deductions' from employers on behalf of members, which is a different category (pages 18, 63-65).",
+    "Related party loan disclosure is fragmented, with only 'insider lending' mentioned as a risk without consolidated figures for directors/staff (page 74)."
+  ],
+  "confidence_level": "FLAGGED_FOR_REVIEW",
+  "evidence_pages": [
+    1,
+    13,
+    18,
+    60,
+    61,
+    63,
+    64,
+    65,
+    74,
+    87
+  ]
+}

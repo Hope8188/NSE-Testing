@@ -1,0 +1,70 @@
+{
+  "company_name": "DT-SACCO Sector (SASRA Supervision Report)",
+  "reporting_year": 2018,
+  "total_board_members": 1654,
+  "board_members": [],
+  "audit_committee": {
+    "name": "Audit Committee",
+    "is_mandatory": true,
+    "exists": true,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "credit_committee": {
+    "name": "Credit Committee",
+    "is_mandatory": true,
+    "exists": true,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "supervisory_committee": {
+    "name": "Supervisory Committee",
+    "is_mandatory": true,
+    "exists": true,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "governance_committee": {
+    "name": "Governance Committee",
+    "is_mandatory": false,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "independent_governance_audit_conducted": false,
+  "governance_auditor_name": null,
+  "governance_auditor_accredited": null,
+  "ceo_nonvoting_at_board": null,
+  "conflict_of_interest_register_maintained": false,
+  "related_party_loans_directors": null,
+  "related_party_loans_staff": null,
+  "related_party_loans_total_derived": null,
+  "related_party_disclosure_fragmented": false,
+  "compliance_score": 50.0,
+  "compliance_gaps": [
+    "The document is a sector-wide supervision report by SASRA, not an annual report of a specific SACCO. Therefore, specific company-level governance data (e.g., individual board members, committee chairpersons, member counts, attendance rates, specific related party loan figures) cannot be extracted.",
+    "The report states '1,654 persons serving in Boards of Directors among the 174 DT-SACCOs' (page 62), which is an aggregate for the entire sector, not a single SACCO's board members.",
+    "The report does not explicitly mention SACCOs conducting annual independent governance audits by ICPSK-accredited auditors. It details SASRA's own 'On-Site Surveillance/Inspections' (page 79).",
+    "No information found regarding the CEO's voting status at board meetings for the sector.",
+    "While 'Insider Lending Reports' are mentioned to address 'conflicts of interest in insider lending' (page 79), the explicit maintenance of a formal 'conflict of interest register' for the sector is not confirmed.",
+    "No specific figures for related party loans to directors or staff were found in the report."
+  ],
+  "confidence_level": "FLAGGED_FOR_REVIEW",
+  "evidence_pages": [
+    1,
+    62,
+    63,
+    64,
+    65,
+    79,
+    82
+  ]
+}

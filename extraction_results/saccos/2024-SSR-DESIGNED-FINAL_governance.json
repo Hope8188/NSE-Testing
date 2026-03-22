@@ -1,0 +1,70 @@
+{
+  "company_name": "Regulated SACCO Industry (Aggregate)",
+  "reporting_year": 2024,
+  "total_board_members": 3019,
+  "board_members": [
+    {
+      "name": "Industry Board Member",
+      "role": "Director",
+      "is_elected": true,
+      "is_independent": true,
+      "attendance_rate": null
+    }
+  ],
+  "audit_committee": {
+    "name": "Audit Committee",
+    "is_mandatory": true,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "credit_committee": {
+    "name": "Credit Committee",
+    "is_mandatory": true,
+    "exists": false,
+    "chairperson": null,
+    "member_count": null,
+    "meets_frequency": null,
+    "independent_majority": null
+  },
+  "supervisory_committee": {
+    "name": "Supervisory Committee",
+    "is_mandatory": true,
+    "exists": true,
+    "chairperson": null,
+    "member_count": 3,
+    "meets_frequency": null,
+    "independent_majority": true
+  },
+  "governance_committee": null,
+  "independent_governance_audit_conducted": false,
+  "governance_auditor_name": null,
+  "governance_auditor_accredited": null,
+  "ceo_nonvoting_at_board": null,
+  "conflict_of_interest_register_maintained": null,
+  "related_party_loans_directors": null,
+  "related_party_loans_staff": null,
+  "related_party_loans_total_derived": null,
+  "related_party_disclosure_fragmented": true,
+  "compliance_score": 37.5,
+  "compliance_gaps": [
+    "Mandatory Credit Committee not explicitly reported as existing across the industry.",
+    "Independent governance audit by ICPSK-accredited auditor not universally conducted/reported for the industry.",
+    "CEO non-voting status at board meetings not explicitly reported for the industry.",
+    "Maintenance of a conflict of interest register not explicitly reported for the industry.",
+    "Related party loan disclosure fragmented/poorly documented for some SACCOs."
+  ],
+  "confidence_level": "FLAGGED_FOR_REVIEW",
+  "evidence_pages": [
+    1,
+    2,
+    100,
+    101,
+    103,
+    114,
+    149,
+    160
+  ]
+}
