@@ -1,0 +1,14 @@
+{
+  "stima_sacco_found": true,
+  "stima_sacco_page": 148,
+  "sasra_compliance_status": "Compliant with all capital adequacy and external borrowing ratios. Core Capital to Total Assets (CCA) at 17.45% (minimum 10%), Core Capital to Total Deposits (CCD) at 23.93% (minimum 8%), Institutional Capital to Total Assets (ICA) at 11.44% (minimum 8%), and External Borrowing to Total Assets at 0.80% (maximum 25%). The NPL Ratio improved from 4.15% in 2022 to 3.66% in 2023.",
+  "sasra_governance_findings": [],
+  "sasra_infractions": [],
+  "concordance_with_extraction": false,
+  "concordance_details": "SASRA's report does not provide specific governance details or an individual governance compliance score for Stima Sacco. Therefore, a direct comparison with Stima's self-reported governance gaps (no independent directors, no governance committee, CFO not disclosed, audit committee independence not verified) and compliance score (60/100) cannot be made from this report.",
+  "discrepancies": [
+    "SASRA's report does not provide an individual governance compliance score or specific governance findings for Stima Sacco, making it impossible to confirm or contradict Stima's self-reported governance gaps (no independent directors, no governance committee, CFO not disclosed, audit committee independence not verified) or its compliance score of 60/100."
+  ],
+  "regulatory_action_taken": null,
+  "summary": "Stima Sacco is mentioned on pages 148, 153, and 196 of the SASRA 2023 Annual Supervision Report. According to SASRA's financial stability indices on page 153, Stima Sacco is compliant with all prescribed capital adequacy and external borrowing ratios for DT-SACCOs. Its Core Capital to Total Assets (CCA) is 17.45% (minimum 10%), Core Capital to Total Deposits (CCD) is 23.93% (minimum 8%), Institutional Capital to Total Assets (ICA) is 11.44% (minimum 8%), and External Borrowing to Total Assets is 0.80% (maximum 25%). The Non-Performing Loan (NPL) Ratio improved from 4.15% in 2022 to 3.66% in 2023. The report does not provide specific governance-related findings, infractions, or regulatory actions taken against Stima Sacco. A direct comparison with Stima's self-reported governance details (e.g., number of independent directors, existence of governance committee, CFO disclosure, audit committee independence, and a compliance score of 60/100) is not possible as SASRA's report only provides aggregate governance data for the industry, not for individual SACCOs."
+}
